@@ -2,6 +2,7 @@
 const express = require('express');
 const cors = require('cors');
 const { MongoClient } = require('mongodb');
+require('dotenv').config(); // Load environment variables
 
 // Create an instance of Express
 const app = express();
@@ -9,9 +10,8 @@ const app = express();
 // Enable CORS for all routes
 app.use(cors());
 
-// MongoDB Atlas connection string with database name
-const uri = "mongodb+srv://oo1139:XPcbzMtkuGaFXexG@cluster7.rli7i.mongodb.net/MyLibrary?retryWrites=true&w=majority&appName=Cluster7&ssl=true";
-
+// MongoDB connection string from environment variables
+const uri = process.env.MONGO_URI;
 
 // Function to fetch courses from the MongoDB collection
 async function fetchCourses() {
@@ -22,7 +22,7 @@ async function fetchCourses() {
     client = await MongoClient.connect(uri, {
       useNewUrlParser: true,        // Use the new URL parser
       useUnifiedTopology: true,    // Use the new server discovery and monitoring engine
-      ssl: true,                    // Ensure SSL is enabled
+      ssl: true,                   // Ensure SSL is enabled
     });
 
     console.log("Connected to MongoDB Atlas");
