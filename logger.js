@@ -6,7 +6,6 @@ require('dotenv').config();
 const fs = require('fs');
 const app = express();
 
-// Middleware to log all requests
 const logMessage = (message) => {
   const logFilePath = path.join(__dirname, 'logger.txt');
   const timestamp = new Date().toISOString();
@@ -24,7 +23,6 @@ app.use(express.json());
 
 const uri = process.env.MONGO_URI;
 
-// Function to fetch courses from MongoDB
 async function fetchCourses() {
   let client;
 
@@ -45,13 +43,11 @@ async function fetchCourses() {
   }
 }
 
-// Log each request
 app.use((req, res, next) => {
   logMessage(`Request to ${req.originalUrl} with method ${req.method}`);
   next();
 });
 
-// Fetch courses
 app.get('/api/courses', async (req, res) => {
   try {
     const courses = await fetchCourses();
@@ -67,15 +63,12 @@ app.get('/api/courses', async (req, res) => {
   }
 });
 
-// Catch-all route for undefined endpoints
 app.use((req, res) => {
   res.status(404).json({ message: 'Route not found' });
 });
 
-// Serve static files if necessary
 app.use(express.static(path.join(__dirname, 'public')));
 
-// Start the server
 const PORT = process.env.PORT || 5000;
 app.listen(PORT, () => {
   logMessage(`Server running on port ${PORT}`);
