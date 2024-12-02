@@ -9,6 +9,7 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
+//conection string 
 const uri = process.env.MONGO_URI;
 
 async function fetchCourses() {
