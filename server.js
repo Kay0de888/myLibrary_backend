@@ -1,14 +1,18 @@
 // Import required modules
 const express = require('express');
 const cors = require('cors');
-const { MongoClient } = require('mongodb');
+const { MongoClient, ObjectId } = require('mongodb'); // Added ObjectId to handle MongoDB IDs
 require('dotenv').config(); // Load environment variables
+const path = require('path');
 
 // Create an instance of Express
 const app = express();
 
 // Enable CORS for all routes
 app.use(cors());
+
+// Middleware to parse JSON requests
+app.use(express.json());
 
 // MongoDB connection string from environment variables
 const uri = process.env.MONGO_URI;
@@ -18,47 +22,51 @@ async function fetchCourses() {
   let client;
 
   try {
-    // Connect to MongoDB Atlas with the URI
     client = await MongoClient.connect(uri, {
-      useNewUrlParser: true,        // Use the new URL parser
-      useUnifiedTopology: true,    // Use the new server discovery and monitoring engine
-      ssl: true,                   // Ensure SSL is enabled
+      useNewUrlParser: true,
+      useUnifiedTopology: true,
+      ssl: true,
     });
 
     console.log("Connected to MongoDB Atlas");
 
-    // Get the database and collection
-    const db = client.db('MyLibrary'); // Ensure this matches your MongoDB database name
-    const coursesCollection = db.collection('courses'); // Ensure this matches your collection name
+    const db = client.db('MyLibrary'); // Your MongoDB database name
+    const coursesCollection = db.collection('courses'); // Your courses collection
 
-    // Fetch all courses from the collection
     const courses = await coursesCollection.find().toArray();
-
-    return courses; // Return courses for API response
-
+    return courses;
   } catch (error) {
-    console.error("Error retrieving courses:", error);
-    throw error; // Throw error so it can be caught in the route
+    console.error("Error retrieving courses:", error.message); // Enhanced error logging
+    throw error;
   } finally {
     if (client) {
-      await client.close(); // Close the database connection after fetching
+      await client.close();
     }
   }
 }
 
 // Define a route to fetch courses
-app.get('/courses', async (req, res) => {
+app.get('/api/courses', async (req, res) => {
+  console.log('Received request for /api/courses');
   try {
     const courses = await fetchCourses();
-    if (courses.length === 0) {
-      res.status(404).json({ message: 'No courses found.' });
-    } else {
-      res.status(200).json(courses);
+    if (!courses || courses.length === 0) {
+      return res.status(404).json({ message: 'No courses found.' });
     }
+    return res.status(200).json(courses);
   } catch (error) {
-    res.status(500).json({ message: 'Error retrieving courses', error: error.message });
+    console.error("Error in /api/courses route:", error.message); // Log specific route errors
+    return res.status(500).json({ message: 'Error retrieving courses', error: error.message });
   }
 });
+
+// Catch-all route for undefined endpoints
+app.use((req, res) => {
+  res.status(404).json({ message: 'Route not found' });
+});
+
+// Serve static files if necessary
+app.use(express.static(path.join(__dirname, 'public')));
 
 // Set the server to listen on a specific port (default is 5000)
 const PORT = process.env.PORT || 5000;

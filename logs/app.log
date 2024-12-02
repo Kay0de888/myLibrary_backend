@@ -1,0 +1,1183 @@
+2024-12-02T13:29:01.791Z - Server is running on http://localhost:3000
+2024-12-02T13:31:50.262Z - GET /api/courses - Search Query: undefined, Sort By: undefined, Order: undefined
+2024-12-02T13:31:50.277Z - Courses returned successfully
+2024-12-02T13:31:50.500Z - GET /api/courses - Search Query: undefined, Sort By: undefined, Order: undefined
+2024-12-02T13:31:50.502Z - Courses returned successfully
+2024-12-02T13:31:50.779Z - GET /api/courses - Search Query: undefined, Sort By: undefined, Order: undefined
+2024-12-02T13:31:50.780Z - Courses returned successfully
+2024-12-02T13:42:26.878Z - Server running on port 5000
+2024-12-02T13:42:27.032Z - Received request for /api/courses
+2024-12-02T13:42:27.197Z - Received request for /api/courses
+2024-12-02T13:42:27.365Z - Received request for /api/courses
+2024-12-02T13:42:27.510Z - Received request for /api/courses
+2024-12-02T13:42:27.668Z - Received request for /api/courses
+2024-12-02T13:42:27.820Z - Received request for /api/courses
+2024-12-02T13:42:27.966Z - Received request for /api/courses
+2024-12-02T13:42:28.115Z - Received request for /api/courses
+2024-12-02T13:42:28.257Z - Received request for /api/courses
+2024-12-02T13:42:28.420Z - Received request for /api/courses
+2024-12-02T13:42:28.576Z - Received request for /api/courses
+2024-12-02T13:42:28.729Z - Received request for /api/courses
+2024-12-02T13:42:28.870Z - Received request for /api/courses
+2024-12-02T13:42:29.028Z - Received request for /api/courses
+2024-12-02T13:42:29.182Z - Received request for /api/courses
+2024-12-02T13:42:29.340Z - Received request for /api/courses
+2024-12-02T13:42:29.495Z - Received request for /api/courses
+2024-12-02T13:42:29.660Z - Received request for /api/courses
+2024-12-02T13:42:29.802Z - Received request for /api/courses
+2024-12-02T13:42:29.964Z - Received request for /api/courses
+2024-12-02T13:42:30.121Z - Received request for /api/courses
+2024-12-02T13:42:30.270Z - Received request for /api/courses
+2024-12-02T13:42:30.418Z - Received request for /api/courses
+2024-12-02T13:42:30.569Z - Received request for /api/courses
+2024-12-02T13:42:30.715Z - Received request for /api/courses
+2024-12-02T13:42:30.876Z - Received request for /api/courses
+2024-12-02T13:42:31.029Z - Received request for /api/courses
+2024-12-02T13:42:31.184Z - Received request for /api/courses
+2024-12-02T13:42:31.342Z - Received request for /api/courses
+2024-12-02T13:42:31.499Z - Received request for /api/courses
+2024-12-02T13:42:31.650Z - Received request for /api/courses
+2024-12-02T13:42:31.793Z - Received request for /api/courses
+2024-12-02T13:42:31.946Z - Received request for /api/courses
+2024-12-02T13:42:32.102Z - Received request for /api/courses
+2024-12-02T13:42:32.256Z - Received request for /api/courses
+2024-12-02T13:42:32.412Z - Received request for /api/courses
+2024-12-02T13:42:32.568Z - Received request for /api/courses
+2024-12-02T13:42:32.723Z - Received request for /api/courses
+2024-12-02T13:42:32.883Z - Received request for /api/courses
+2024-12-02T13:42:33.032Z - Received request for /api/courses
+2024-12-02T13:42:33.207Z - Received request for /api/courses
+2024-12-02T13:42:33.366Z - Received request for /api/courses
+2024-12-02T13:42:33.531Z - Received request for /api/courses
+2024-12-02T13:42:33.688Z - Received request for /api/courses
+2024-12-02T13:42:33.852Z - Received request for /api/courses
+2024-12-02T13:42:34.008Z - Received request for /api/courses
+2024-12-02T13:42:34.166Z - Received request for /api/courses
+2024-12-02T13:42:34.333Z - Received request for /api/courses
+2024-12-02T13:42:34.491Z - Received request for /api/courses
+2024-12-02T13:42:34.647Z - Received request for /api/courses
+2024-12-02T13:42:34.802Z - Received request for /api/courses
+2024-12-02T13:42:34.965Z - Received request for /api/courses
+2024-12-02T13:42:35.154Z - Received request for /api/courses
+2024-12-02T13:42:35.315Z - Received request for /api/courses
+2024-12-02T13:42:35.477Z - Received request for /api/courses
+2024-12-02T13:42:35.631Z - Received request for /api/courses
+2024-12-02T13:42:35.786Z - Received request for /api/courses
+2024-12-02T13:42:35.966Z - Received request for /api/courses
+2024-12-02T13:42:36.124Z - Received request for /api/courses
+2024-12-02T13:42:36.359Z - Received request for /api/courses
+2024-12-02T13:42:36.521Z - Received request for /api/courses
+2024-12-02T13:42:36.675Z - Received request for /api/courses
+2024-12-02T13:42:36.831Z - Received request for /api/courses
+2024-12-02T13:42:36.981Z - Received request for /api/courses
+2024-12-02T13:42:37.144Z - Received request for /api/courses
+2024-12-02T13:42:37.292Z - Received request for /api/courses
+2024-12-02T13:42:37.532Z - Received request for /api/courses
+2024-12-02T13:42:37.815Z - Received request for /api/courses
+2024-12-02T13:42:38.030Z - Received request for /api/courses
+2024-12-02T13:42:38.192Z - Received request for /api/courses
+2024-12-02T13:42:38.341Z - Received request for /api/courses
+2024-12-02T13:42:38.501Z - Received request for /api/courses
+2024-12-02T13:42:38.661Z - Received request for /api/courses
+2024-12-02T13:42:38.845Z - Received request for /api/courses
+2024-12-02T13:42:39.009Z - Received request for /api/courses
+2024-12-02T13:42:39.170Z - Received request for /api/courses
+2024-12-02T13:42:39.328Z - Received request for /api/courses
+2024-12-02T13:42:39.483Z - Received request for /api/courses
+2024-12-02T13:42:39.652Z - Received request for /api/courses
+2024-12-02T13:42:39.840Z - Received request for /api/courses
+2024-12-02T13:42:39.999Z - Received request for /api/courses
+2024-12-02T13:42:40.163Z - Received request for /api/courses
+2024-12-02T13:42:40.336Z - Received request for /api/courses
+2024-12-02T13:42:40.504Z - Received request for /api/courses
+2024-12-02T13:42:40.655Z - Received request for /api/courses
+2024-12-02T13:42:40.816Z - Received request for /api/courses
+2024-12-02T13:42:40.973Z - Received request for /api/courses
+2024-12-02T13:42:41.168Z - Received request for /api/courses
+2024-12-02T13:42:41.334Z - Received request for /api/courses
+2024-12-02T13:42:41.483Z - Received request for /api/courses
+2024-12-02T13:42:41.640Z - Received request for /api/courses
+2024-12-02T13:42:41.811Z - Received request for /api/courses
+2024-12-02T13:42:41.974Z - Received request for /api/courses
+2024-12-02T13:42:42.146Z - Received request for /api/courses
+2024-12-02T13:42:42.361Z - Received request for /api/courses
+2024-12-02T13:42:42.528Z - Received request for /api/courses
+2024-12-02T13:42:42.678Z - Received request for /api/courses
+2024-12-02T13:42:42.843Z - Received request for /api/courses
+2024-12-02T13:42:43.032Z - Received request for /api/courses
+2024-12-02T13:42:43.227Z - Received request for /api/courses
+2024-12-02T13:42:43.594Z - Received request for /api/courses
+2024-12-02T13:42:44.309Z - Received request for /api/courses
+2024-12-02T13:42:44.511Z - Received request for /api/courses
+2024-12-02T13:42:44.732Z - Connected to MongoDB Atlas
+2024-12-02T13:42:44.809Z - Received request for /api/courses
+2024-12-02T13:42:44.873Z - Connected to MongoDB Atlas
+2024-12-02T13:42:45.054Z - Successfully fetched courses
+2024-12-02T13:42:45.079Z - Received request for /api/courses
+2024-12-02T13:42:45.476Z - Successfully fetched courses
+2024-12-02T13:42:45.521Z - Connected to MongoDB Atlas
+2024-12-02T13:42:45.587Z - Connected to MongoDB Atlas
+2024-12-02T13:42:45.588Z - Connected to MongoDB Atlas
+2024-12-02T13:42:45.599Z - Successfully fetched courses
+2024-12-02T13:42:45.740Z - Received request for /api/courses
+2024-12-02T13:42:45.885Z - Received request for /api/courses
+2024-12-02T13:42:46.042Z - Received request for /api/courses
+2024-12-02T13:42:46.192Z - Received request for /api/courses
+2024-12-02T13:42:46.333Z - Received request for /api/courses
+2024-12-02T13:42:46.453Z - Connected to MongoDB Atlas
+2024-12-02T13:42:46.461Z - Connected to MongoDB Atlas
+2024-12-02T13:42:46.456Z - Connected to MongoDB Atlas
+2024-12-02T13:42:46.459Z - Connected to MongoDB Atlas
+2024-12-02T13:42:46.463Z - Connected to MongoDB Atlas
+2024-12-02T13:42:46.469Z - Connected to MongoDB Atlas
+2024-12-02T13:42:46.464Z - Connected to MongoDB Atlas
+2024-12-02T13:42:46.478Z - Connected to MongoDB Atlas
+2024-12-02T13:42:46.472Z - Connected to MongoDB Atlas
+2024-12-02T13:42:46.483Z - Connected to MongoDB Atlas
+2024-12-02T13:42:46.488Z - Connected to MongoDB Atlas
+2024-12-02T13:42:46.494Z - Successfully fetched courses
+2024-12-02T13:42:46.495Z - Connected to MongoDB Atlas
+2024-12-02T13:42:46.480Z - Connected to MongoDB Atlas
+2024-12-02T13:42:46.497Z - Connected to MongoDB Atlas
+2024-12-02T13:42:46.500Z - Connected to MongoDB Atlas
+2024-12-02T13:42:46.498Z - Connected to MongoDB Atlas
+2024-12-02T13:42:46.502Z - Connected to MongoDB Atlas
+2024-12-02T13:42:46.505Z - Connected to MongoDB Atlas
+2024-12-02T13:42:46.507Z - Connected to MongoDB Atlas
+2024-12-02T13:42:46.508Z - Connected to MongoDB Atlas
+2024-12-02T13:42:46.509Z - Connected to MongoDB Atlas
+2024-12-02T13:42:46.510Z - Connected to MongoDB Atlas
+2024-12-02T13:42:46.475Z - Connected to MongoDB Atlas
+2024-12-02T13:42:46.513Z - Connected to MongoDB Atlas
+2024-12-02T13:42:46.518Z - Successfully fetched courses
+2024-12-02T13:42:46.522Z - Connected to MongoDB Atlas
+2024-12-02T13:42:46.524Z - Connected to MongoDB Atlas
+2024-12-02T13:42:46.512Z - Connected to MongoDB Atlas
+2024-12-02T13:42:46.525Z - Connected to MongoDB Atlas
+2024-12-02T13:42:46.527Z - Connected to MongoDB Atlas
+2024-12-02T13:42:46.529Z - Connected to MongoDB Atlas
+2024-12-02T13:42:46.530Z - Connected to MongoDB Atlas
+2024-12-02T13:42:46.531Z - Connected to MongoDB Atlas
+2024-12-02T13:42:46.534Z - Connected to MongoDB Atlas
+2024-12-02T13:42:46.537Z - Connected to MongoDB Atlas
+2024-12-02T13:42:46.538Z - Connected to MongoDB Atlas
+2024-12-02T13:42:46.539Z - Connected to MongoDB Atlas
+2024-12-02T13:42:46.539Z - Connected to MongoDB Atlas
+2024-12-02T13:42:46.541Z - Connected to MongoDB Atlas
+2024-12-02T13:42:46.541Z - Connected to MongoDB Atlas
+2024-12-02T13:42:46.543Z - Connected to MongoDB Atlas
+2024-12-02T13:42:46.547Z - Successfully fetched courses
+2024-12-02T13:42:46.548Z - Connected to MongoDB Atlas
+2024-12-02T13:42:46.536Z - Connected to MongoDB Atlas
+2024-12-02T13:42:46.555Z - Successfully fetched courses
+2024-12-02T13:42:46.552Z - Successfully fetched courses
+2024-12-02T13:42:46.553Z - Connected to MongoDB Atlas
+2024-12-02T13:42:46.559Z - Connected to MongoDB Atlas
+2024-12-02T13:42:46.560Z - Connected to MongoDB Atlas
+2024-12-02T13:42:46.558Z - Successfully fetched courses
+2024-12-02T13:42:46.571Z - Successfully fetched courses
+2024-12-02T13:42:46.581Z - Received request for /api/courses
+2024-12-02T13:42:46.589Z - Successfully fetched courses
+2024-12-02T13:42:46.592Z - Successfully fetched courses
+2024-12-02T13:42:46.593Z - Connected to MongoDB Atlas
+2024-12-02T13:42:46.594Z - Connected to MongoDB Atlas
+2024-12-02T13:42:46.599Z - Successfully fetched courses
+2024-12-02T13:42:46.604Z - Successfully fetched courses
+2024-12-02T13:42:46.606Z - Successfully fetched courses
+2024-12-02T13:42:46.609Z - Successfully fetched courses
+2024-12-02T13:42:46.576Z - Successfully fetched courses
+2024-12-02T13:42:46.580Z - Successfully fetched courses
+2024-12-02T13:42:46.621Z - Successfully fetched courses
+2024-12-02T13:42:46.636Z - Successfully fetched courses
+2024-12-02T13:42:46.629Z - Successfully fetched courses
+2024-12-02T13:42:46.624Z - Connected to MongoDB Atlas
+2024-12-02T13:42:46.647Z - Successfully fetched courses
+2024-12-02T13:42:46.643Z - Successfully fetched courses
+2024-12-02T13:42:46.638Z - Connected to MongoDB Atlas
+2024-12-02T13:42:46.651Z - Successfully fetched courses
+2024-12-02T13:42:46.654Z - Successfully fetched courses
+2024-12-02T13:42:46.658Z - Successfully fetched courses
+2024-12-02T13:42:46.664Z - Successfully fetched courses
+2024-12-02T13:42:46.665Z - Connected to MongoDB Atlas
+2024-12-02T13:42:46.661Z - Successfully fetched courses
+2024-12-02T13:42:46.671Z - Successfully fetched courses
+2024-12-02T13:42:46.680Z - Connected to MongoDB Atlas
+2024-12-02T13:42:46.668Z - Successfully fetched courses
+2024-12-02T13:42:46.677Z - Successfully fetched courses
+2024-12-02T13:42:46.678Z - Connected to MongoDB Atlas
+2024-12-02T13:42:46.682Z - Successfully fetched courses
+2024-12-02T13:42:46.691Z - Successfully fetched courses
+2024-12-02T13:42:46.693Z - Successfully fetched courses
+2024-12-02T13:42:46.694Z - Connected to MongoDB Atlas
+2024-12-02T13:42:46.697Z - Successfully fetched courses
+2024-12-02T13:42:46.698Z - Connected to MongoDB Atlas
+2024-12-02T13:42:46.700Z - Successfully fetched courses
+2024-12-02T13:42:46.702Z - Successfully fetched courses
+2024-12-02T13:42:46.687Z - Successfully fetched courses
+2024-12-02T13:42:46.685Z - Successfully fetched courses
+2024-12-02T13:42:46.689Z - Successfully fetched courses
+2024-12-02T13:42:46.707Z - Successfully fetched courses
+2024-12-02T13:42:46.711Z - Successfully fetched courses
+2024-12-02T13:42:46.716Z - Successfully fetched courses
+2024-12-02T13:42:46.721Z - Successfully fetched courses
+2024-12-02T13:42:46.712Z - Connected to MongoDB Atlas
+2024-12-02T13:42:46.725Z - Successfully fetched courses
+2024-12-02T13:42:46.731Z - Successfully fetched courses
+2024-12-02T13:42:46.734Z - Successfully fetched courses
+2024-12-02T13:42:46.736Z - Connected to MongoDB Atlas
+2024-12-02T13:42:46.738Z - Connected to MongoDB Atlas
+2024-12-02T13:42:46.729Z - Successfully fetched courses
+2024-12-02T13:42:46.740Z - Successfully fetched courses
+2024-12-02T13:42:46.741Z - Connected to MongoDB Atlas
+2024-12-02T13:42:46.743Z - Successfully fetched courses
+2024-12-02T13:42:46.744Z - Connected to MongoDB Atlas
+2024-12-02T13:42:46.732Z - Connected to MongoDB Atlas
+2024-12-02T13:42:46.930Z - Received request for /api/courses
+2024-12-02T13:42:47.078Z - Received request for /api/courses
+2024-12-02T13:42:47.220Z - Received request for /api/courses
+2024-12-02T13:42:47.363Z - Received request for /api/courses
+2024-12-02T13:42:47.459Z - Successfully fetched courses
+2024-12-02T13:42:47.461Z - Successfully fetched courses
+2024-12-02T13:42:47.464Z - Successfully fetched courses
+2024-12-02T13:42:47.466Z - Successfully fetched courses
+2024-12-02T13:42:47.468Z - Successfully fetched courses
+2024-12-02T13:42:47.472Z - Successfully fetched courses
+2024-12-02T13:42:47.474Z - Successfully fetched courses
+2024-12-02T13:42:47.485Z - Successfully fetched courses
+2024-12-02T13:42:47.489Z - Successfully fetched courses
+2024-12-02T13:42:47.494Z - Successfully fetched courses
+2024-12-02T13:42:47.491Z - Successfully fetched courses
+2024-12-02T13:42:47.498Z - Successfully fetched courses
+2024-12-02T13:42:47.481Z - Successfully fetched courses
+2024-12-02T13:42:47.496Z - Successfully fetched courses
+2024-12-02T13:42:47.504Z - Successfully fetched courses
+2024-12-02T13:42:47.618Z - Received request for /api/courses
+2024-12-02T13:42:47.772Z - Received request for /api/courses
+2024-12-02T13:42:50.089Z - Connected to MongoDB Atlas
+2024-12-02T13:42:50.090Z - Connected to MongoDB Atlas
+2024-12-02T13:42:50.095Z - Connected to MongoDB Atlas
+2024-12-02T13:42:50.097Z - Connected to MongoDB Atlas
+2024-12-02T13:42:50.100Z - Connected to MongoDB Atlas
+2024-12-02T13:42:50.101Z - Connected to MongoDB Atlas
+2024-12-02T13:42:50.105Z - Connected to MongoDB Atlas
+2024-12-02T13:42:50.129Z - Connected to MongoDB Atlas
+2024-12-02T13:42:50.131Z - Connected to MongoDB Atlas
+2024-12-02T13:42:50.136Z - Connected to MongoDB Atlas
+2024-12-02T13:42:50.144Z - Connected to MongoDB Atlas
+2024-12-02T13:42:50.153Z - Successfully fetched courses
+2024-12-02T13:42:50.309Z - Received request for /api/courses
+2024-12-02T13:42:50.553Z - Received request for /api/courses
+2024-12-02T13:42:50.562Z - Successfully fetched courses
+2024-12-02T13:42:50.567Z - Connected to MongoDB Atlas
+2024-12-02T13:42:50.575Z - Successfully fetched courses
+2024-12-02T13:42:50.579Z - Connected to MongoDB Atlas
+2024-12-02T13:42:50.578Z - Successfully fetched courses
+2024-12-02T13:42:50.582Z - Successfully fetched courses
+2024-12-02T13:42:50.590Z - Successfully fetched courses
+2024-12-02T13:42:50.570Z - Connected to MongoDB Atlas
+2024-12-02T13:42:50.591Z - Connected to MongoDB Atlas
+2024-12-02T13:42:50.586Z - Connected to MongoDB Atlas
+2024-12-02T13:42:50.594Z - Successfully fetched courses
+2024-12-02T13:42:50.595Z - Connected to MongoDB Atlas
+2024-12-02T13:42:50.598Z - Connected to MongoDB Atlas
+2024-12-02T13:42:50.609Z - Successfully fetched courses
+2024-12-02T13:42:50.606Z - Successfully fetched courses
+2024-12-02T13:42:50.618Z - Successfully fetched courses
+2024-12-02T13:42:50.627Z - Successfully fetched courses
+2024-12-02T13:42:50.639Z - Connected to MongoDB Atlas
+2024-12-02T13:42:50.648Z - Connected to MongoDB Atlas
+2024-12-02T13:42:50.668Z - Connected to MongoDB Atlas
+2024-12-02T13:42:50.680Z - Connected to MongoDB Atlas
+2024-12-02T13:42:50.703Z - Successfully fetched courses
+2024-12-02T13:42:50.706Z - Successfully fetched courses
+2024-12-02T13:42:50.708Z - Successfully fetched courses
+2024-12-02T13:42:50.710Z - Successfully fetched courses
+2024-12-02T13:42:50.716Z - Successfully fetched courses
+2024-12-02T13:42:50.723Z - Successfully fetched courses
+2024-12-02T13:42:50.726Z - Successfully fetched courses
+2024-12-02T13:42:50.728Z - Successfully fetched courses
+2024-12-02T13:42:50.732Z - Successfully fetched courses
+2024-12-02T13:42:50.746Z - Successfully fetched courses
+2024-12-02T13:42:50.761Z - Successfully fetched courses
+2024-12-02T13:42:50.904Z - Received request for /api/courses
+2024-12-02T13:42:51.059Z - Received request for /api/courses
+2024-12-02T13:42:51.219Z - Received request for /api/courses
+2024-12-02T13:42:51.371Z - Received request for /api/courses
+2024-12-02T13:42:51.529Z - Received request for /api/courses
+2024-12-02T13:42:51.676Z - Received request for /api/courses
+2024-12-02T13:42:51.816Z - Received request for /api/courses
+2024-12-02T13:42:51.958Z - Received request for /api/courses
+2024-12-02T13:42:52.112Z - Received request for /api/courses
+2024-12-02T13:42:52.256Z - Received request for /api/courses
+2024-12-02T13:42:52.398Z - Received request for /api/courses
+2024-12-02T13:42:52.557Z - Received request for /api/courses
+2024-12-02T13:42:52.712Z - Received request for /api/courses
+2024-12-02T13:42:52.877Z - Received request for /api/courses
+2024-12-02T13:42:53.036Z - Received request for /api/courses
+2024-12-02T13:42:53.248Z - Received request for /api/courses
+2024-12-02T13:42:53.413Z - Received request for /api/courses
+2024-12-02T13:42:53.569Z - Received request for /api/courses
+2024-12-02T13:42:53.747Z - Received request for /api/courses
+2024-12-02T13:42:53.935Z - Received request for /api/courses
+2024-12-02T13:42:54.307Z - Received request for /api/courses
+2024-12-02T13:42:54.517Z - Received request for /api/courses
+2024-12-02T13:42:54.769Z - Received request for /api/courses
+2024-12-02T13:42:54.811Z - Connected to MongoDB Atlas
+2024-12-02T13:42:54.820Z - Connected to MongoDB Atlas
+2024-12-02T13:42:54.822Z - Connected to MongoDB Atlas
+2024-12-02T13:42:54.859Z - Connected to MongoDB Atlas
+2024-12-02T13:42:54.875Z - Connected to MongoDB Atlas
+2024-12-02T13:42:54.886Z - Connected to MongoDB Atlas
+2024-12-02T13:42:54.883Z - Connected to MongoDB Atlas
+2024-12-02T13:42:54.881Z - Connected to MongoDB Atlas
+2024-12-02T13:42:54.890Z - Connected to MongoDB Atlas
+2024-12-02T13:42:54.892Z - Connected to MongoDB Atlas
+2024-12-02T13:42:54.899Z - Connected to MongoDB Atlas
+2024-12-02T13:42:54.913Z - Successfully fetched courses
+2024-12-02T13:42:54.946Z - Successfully fetched courses
+2024-12-02T13:42:54.938Z - Successfully fetched courses
+2024-12-02T13:42:55.077Z - Received request for /api/courses
+2024-12-02T13:42:55.083Z - Connected to MongoDB Atlas
+2024-12-02T13:42:55.091Z - Connected to MongoDB Atlas
+2024-12-02T13:42:55.097Z - Successfully fetched courses
+2024-12-02T13:42:55.093Z - Connected to MongoDB Atlas
+2024-12-02T13:42:55.105Z - Connected to MongoDB Atlas
+2024-12-02T13:42:55.110Z - Successfully fetched courses
+2024-12-02T13:42:55.103Z - Successfully fetched courses
+2024-12-02T13:42:55.120Z - Successfully fetched courses
+2024-12-02T13:42:55.125Z - Successfully fetched courses
+2024-12-02T13:42:55.131Z - Successfully fetched courses
+2024-12-02T13:42:55.143Z - Successfully fetched courses
+2024-12-02T13:42:55.139Z - Successfully fetched courses
+2024-12-02T13:42:55.112Z - Connected to MongoDB Atlas
+2024-12-02T13:42:55.145Z - Connected to MongoDB Atlas
+2024-12-02T13:42:55.146Z - Connected to MongoDB Atlas
+2024-12-02T13:42:55.164Z - Successfully fetched courses
+2024-12-02T13:42:55.174Z - Successfully fetched courses
+2024-12-02T13:42:55.180Z - Successfully fetched courses
+2024-12-02T13:42:55.187Z - Successfully fetched courses
+2024-12-02T13:42:55.193Z - Successfully fetched courses
+2024-12-02T13:42:55.226Z - Successfully fetched courses
+2024-12-02T13:42:55.234Z - Successfully fetched courses
+2024-12-02T13:42:55.382Z - Received request for /api/courses
+2024-12-02T13:42:58.832Z - Connected to MongoDB Atlas
+2024-12-02T13:42:58.835Z - Connected to MongoDB Atlas
+2024-12-02T13:42:58.836Z - Connected to MongoDB Atlas
+2024-12-02T13:42:58.839Z - Connected to MongoDB Atlas
+2024-12-02T13:42:58.891Z - Connected to MongoDB Atlas
+2024-12-02T13:42:58.892Z - Connected to MongoDB Atlas
+2024-12-02T13:42:58.894Z - Connected to MongoDB Atlas
+2024-12-02T13:42:58.896Z - Connected to MongoDB Atlas
+2024-12-02T13:42:58.898Z - Connected to MongoDB Atlas
+2024-12-02T13:42:58.899Z - Connected to MongoDB Atlas
+2024-12-02T13:42:58.901Z - Connected to MongoDB Atlas
+2024-12-02T13:42:58.900Z - Connected to MongoDB Atlas
+2024-12-02T13:42:58.902Z - Connected to MongoDB Atlas
+2024-12-02T13:42:58.904Z - Connected to MongoDB Atlas
+2024-12-02T13:42:58.903Z - Connected to MongoDB Atlas
+2024-12-02T13:42:58.904Z - Connected to MongoDB Atlas
+2024-12-02T13:42:58.905Z - Connected to MongoDB Atlas
+2024-12-02T13:42:58.906Z - Connected to MongoDB Atlas
+2024-12-02T13:42:58.911Z - Connected to MongoDB Atlas
+2024-12-02T13:42:58.913Z - Connected to MongoDB Atlas
+2024-12-02T13:42:58.912Z - Connected to MongoDB Atlas
+2024-12-02T13:42:58.915Z - Connected to MongoDB Atlas
+2024-12-02T13:42:58.949Z - Successfully fetched courses
+2024-12-02T13:42:58.956Z - Successfully fetched courses
+2024-12-02T13:42:58.967Z - Successfully fetched courses
+2024-12-02T13:42:58.970Z - Successfully fetched courses
+2024-12-02T13:42:58.971Z - Connected to MongoDB Atlas
+2024-12-02T13:42:58.960Z - Successfully fetched courses
+2024-12-02T13:42:58.963Z - Successfully fetched courses
+2024-12-02T13:42:58.974Z - Successfully fetched courses
+2024-12-02T13:42:58.975Z - Connected to MongoDB Atlas
+2024-12-02T13:42:58.979Z - Connected to MongoDB Atlas
+2024-12-02T13:42:58.978Z - Successfully fetched courses
+2024-12-02T13:42:58.984Z - Successfully fetched courses
+2024-12-02T13:42:58.981Z - Successfully fetched courses
+2024-12-02T13:42:58.976Z - Connected to MongoDB Atlas
+2024-12-02T13:42:58.987Z - Successfully fetched courses
+2024-12-02T13:42:58.985Z - Connected to MongoDB Atlas
+2024-12-02T13:42:58.988Z - Successfully fetched courses
+2024-12-02T13:42:58.993Z - Successfully fetched courses
+2024-12-02T13:42:58.990Z - Successfully fetched courses
+2024-12-02T13:42:58.992Z - Successfully fetched courses
+2024-12-02T13:42:58.995Z - Successfully fetched courses
+2024-12-02T13:42:58.995Z - Connected to MongoDB Atlas
+2024-12-02T13:42:59.002Z - Successfully fetched courses
+2024-12-02T13:42:59.009Z - Successfully fetched courses
+2024-12-02T13:42:59.012Z - Successfully fetched courses
+2024-12-02T13:42:59.013Z - Connected to MongoDB Atlas
+2024-12-02T13:42:59.015Z - Connected to MongoDB Atlas
+2024-12-02T13:42:59.019Z - Successfully fetched courses
+2024-12-02T13:42:59.022Z - Successfully fetched courses
+2024-12-02T13:42:59.023Z - Connected to MongoDB Atlas
+2024-12-02T13:42:59.024Z - Connected to MongoDB Atlas
+2024-12-02T13:42:59.005Z - Successfully fetched courses
+2024-12-02T13:42:59.038Z - Successfully fetched courses
+2024-12-02T13:42:59.043Z - Successfully fetched courses
+2024-12-02T13:42:59.047Z - Successfully fetched courses
+2024-12-02T13:42:59.222Z - Received request for /api/courses
+2024-12-02T13:42:59.827Z - Connected to MongoDB Atlas
+2024-12-02T13:42:59.833Z - Successfully fetched courses
+2024-12-02T13:42:59.835Z - Successfully fetched courses
+2024-12-02T13:42:59.838Z - Successfully fetched courses
+2024-12-02T13:42:59.844Z - Successfully fetched courses
+2024-12-02T13:42:59.841Z - Successfully fetched courses
+2024-12-02T13:42:59.849Z - Successfully fetched courses
+2024-12-02T13:42:59.847Z - Successfully fetched courses
+2024-12-02T13:42:59.894Z - Successfully fetched courses
+2024-12-02T13:43:00.078Z - Received request for /api/courses
+2024-12-02T13:43:00.232Z - Received request for /api/courses
+2024-12-02T13:43:00.391Z - Received request for /api/courses
+2024-12-02T13:43:06.225Z - Connected to MongoDB Atlas
+2024-12-02T13:43:06.258Z - Connected to MongoDB Atlas
+2024-12-02T13:43:06.259Z - Connected to MongoDB Atlas
+2024-12-02T13:43:06.264Z - Connected to MongoDB Atlas
+2024-12-02T13:43:06.270Z - Connected to MongoDB Atlas
+2024-12-02T13:43:06.289Z - Connected to MongoDB Atlas
+2024-12-02T13:43:06.293Z - Successfully fetched courses
+2024-12-02T13:43:06.297Z - Connected to MongoDB Atlas
+2024-12-02T13:43:06.301Z - Connected to MongoDB Atlas
+2024-12-02T13:43:06.319Z - Connected to MongoDB Atlas
+2024-12-02T13:43:06.324Z - Successfully fetched courses
+2024-12-02T13:43:06.329Z - Successfully fetched courses
+2024-12-02T13:43:06.335Z - Successfully fetched courses
+2024-12-02T13:43:06.339Z - Successfully fetched courses
+2024-12-02T13:43:06.361Z - Successfully fetched courses
+2024-12-02T13:43:06.374Z - Successfully fetched courses
+2024-12-02T13:43:06.381Z - Successfully fetched courses
+2024-12-02T13:43:06.393Z - Successfully fetched courses
+2024-12-02T13:43:06.512Z - Received request for /api/courses
+2024-12-02T13:43:06.671Z - Received request for /api/courses
+2024-12-02T13:43:06.820Z - Received request for /api/courses
+2024-12-02T13:43:10.869Z - Connected to MongoDB Atlas
+2024-12-02T13:43:10.942Z - Successfully fetched courses
+2024-12-02T13:43:11.189Z - Received request for /api/courses
+2024-12-02T13:43:18.932Z - Connected to MongoDB Atlas
+2024-12-02T13:43:18.934Z - Connected to MongoDB Atlas
+2024-12-02T13:43:18.937Z - Connected to MongoDB Atlas
+2024-12-02T13:43:19.000Z - Successfully fetched courses
+2024-12-02T13:43:19.006Z - Successfully fetched courses
+2024-12-02T13:43:19.009Z - Successfully fetched courses
+2024-12-02T13:43:19.169Z - Received request for /api/courses
+2024-12-02T13:43:19.323Z - Received request for /api/courses
+2024-12-02T13:43:19.482Z - Received request for /api/courses
+2024-12-02T13:43:19.630Z - Received request for /api/courses
+2024-12-02T13:43:19.788Z - Received request for /api/courses
+2024-12-02T13:43:19.931Z - Received request for /api/courses
+2024-12-02T13:43:20.093Z - Received request for /api/courses
+2024-12-02T13:43:20.244Z - Received request for /api/courses
+2024-12-02T13:43:20.399Z - Received request for /api/courses
+2024-12-02T13:43:20.561Z - Received request for /api/courses
+2024-12-02T13:43:20.715Z - Received request for /api/courses
+2024-12-02T13:43:20.873Z - Received request for /api/courses
+2024-12-02T13:43:21.032Z - Received request for /api/courses
+2024-12-02T13:43:21.189Z - Received request for /api/courses
+2024-12-02T13:45:41.843Z - Server running on port 5000
+2024-12-02T13:45:42.008Z - Received request for /api/courses
+2024-12-02T13:45:42.301Z - Received request for /api/courses
+2024-12-02T13:45:42.460Z - Received request for /api/courses
+2024-12-02T13:45:42.613Z - Received request for /api/courses
+2024-12-02T13:45:42.755Z - Received request for /api/courses
+2024-12-02T13:45:42.900Z - Received request for /api/courses
+2024-12-02T13:45:43.056Z - Received request for /api/courses
+2024-12-02T13:45:43.207Z - Received request for /api/courses
+2024-12-02T13:45:43.369Z - Received request for /api/courses
+2024-12-02T13:45:43.519Z - Received request for /api/courses
+2024-12-02T13:45:43.676Z - Received request for /api/courses
+2024-12-02T13:45:43.821Z - Received request for /api/courses
+2024-12-02T13:45:43.981Z - Received request for /api/courses
+2024-12-02T13:45:44.141Z - Received request for /api/courses
+2024-12-02T13:45:44.290Z - Received request for /api/courses
+2024-12-02T13:45:44.434Z - Received request for /api/courses
+2024-12-02T13:45:44.593Z - Received request for /api/courses
+2024-12-02T13:45:44.731Z - Received request for /api/courses
+2024-12-02T13:45:44.871Z - Received request for /api/courses
+2024-12-02T13:45:45.016Z - Received request for /api/courses
+2024-12-02T13:45:45.174Z - Received request for /api/courses
+2024-12-02T13:45:45.327Z - Received request for /api/courses
+2024-12-02T13:45:45.467Z - Received request for /api/courses
+2024-12-02T13:45:45.612Z - Received request for /api/courses
+2024-12-02T13:45:45.768Z - Received request for /api/courses
+2024-12-02T13:45:45.911Z - Received request for /api/courses
+2024-12-02T13:45:46.070Z - Received request for /api/courses
+2024-12-02T13:45:46.222Z - Received request for /api/courses
+2024-12-02T13:45:46.365Z - Received request for /api/courses
+2024-12-02T13:45:46.506Z - Received request for /api/courses
+2024-12-02T13:45:46.650Z - Received request for /api/courses
+2024-12-02T13:45:46.790Z - Received request for /api/courses
+2024-12-02T13:45:46.935Z - Received request for /api/courses
+2024-12-02T13:45:47.083Z - Received request for /api/courses
+2024-12-02T13:45:47.233Z - Received request for /api/courses
+2024-12-02T13:45:47.373Z - Received request for /api/courses
+2024-12-02T13:45:47.920Z - Received request for /api/courses
+2024-12-02T13:45:48.080Z - Received request for /api/courses
+2024-12-02T13:45:48.231Z - Received request for /api/courses
+2024-12-02T13:45:48.390Z - Received request for /api/courses
+2024-12-02T13:45:48.547Z - Received request for /api/courses
+2024-12-02T13:45:48.708Z - Received request for /api/courses
+2024-12-02T13:45:48.871Z - Received request for /api/courses
+2024-12-02T13:45:49.034Z - Received request for /api/courses
+2024-12-02T13:45:49.188Z - Received request for /api/courses
+2024-12-02T13:45:49.345Z - Received request for /api/courses
+2024-12-02T13:45:49.500Z - Received request for /api/courses
+2024-12-02T13:45:49.654Z - Received request for /api/courses
+2024-12-02T13:45:49.821Z - Received request for /api/courses
+2024-12-02T13:45:49.990Z - Received request for /api/courses
+2024-12-02T13:45:50.139Z - Received request for /api/courses
+2024-12-02T13:45:50.295Z - Received request for /api/courses
+2024-12-02T13:45:50.453Z - Received request for /api/courses
+2024-12-02T13:45:50.615Z - Received request for /api/courses
+2024-12-02T13:45:50.765Z - Received request for /api/courses
+2024-12-02T13:45:50.921Z - Received request for /api/courses
+2024-12-02T13:45:51.073Z - Received request for /api/courses
+2024-12-02T13:45:51.499Z - Received request for /api/courses
+2024-12-02T13:45:51.663Z - Received request for /api/courses
+2024-12-02T13:45:51.816Z - Received request for /api/courses
+2024-12-02T13:45:51.973Z - Received request for /api/courses
+2024-12-02T13:45:52.128Z - Received request for /api/courses
+2024-12-02T13:45:52.544Z - Received request for /api/courses
+2024-12-02T13:45:52.801Z - Received request for /api/courses
+2024-12-02T13:45:52.960Z - Received request for /api/courses
+2024-12-02T13:45:53.136Z - Received request for /api/courses
+2024-12-02T13:45:53.300Z - Received request for /api/courses
+2024-12-02T13:45:53.478Z - Received request for /api/courses
+2024-12-02T13:45:53.720Z - Received request for /api/courses
+2024-12-02T13:45:53.908Z - Received request for /api/courses
+2024-12-02T13:45:54.086Z - Received request for /api/courses
+2024-12-02T13:45:54.278Z - Received request for /api/courses
+2024-12-02T13:45:54.446Z - Received request for /api/courses
+2024-12-02T13:45:55.071Z - Received request for /api/courses
+2024-12-02T13:45:55.409Z - Received request for /api/courses
+2024-12-02T13:45:55.593Z - Received request for /api/courses
+2024-12-02T13:45:55.758Z - Received request for /api/courses
+2024-12-02T13:45:55.929Z - Received request for /api/courses
+2024-12-02T13:45:56.095Z - Received request for /api/courses
+2024-12-02T13:45:56.260Z - Received request for /api/courses
+2024-12-02T13:45:56.431Z - Received request for /api/courses
+2024-12-02T13:45:56.669Z - Received request for /api/courses
+2024-12-02T13:46:15.261Z - Connected to MongoDB Atlas
+2024-12-02T13:46:15.267Z - Connected to MongoDB Atlas
+2024-12-02T13:46:15.291Z - Connected to MongoDB Atlas
+2024-12-02T13:46:15.447Z - Received request for /api/courses
+2024-12-02T13:46:15.607Z - Received request for /api/courses
+2024-12-02T13:46:15.764Z - Received request for /api/courses
+2024-12-02T13:46:15.915Z - Received request for /api/courses
+2024-12-02T13:46:16.083Z - Received request for /api/courses
+2024-12-02T13:46:16.142Z - Connected to MongoDB Atlas
+2024-12-02T13:46:16.144Z - Connected to MongoDB Atlas
+2024-12-02T13:46:16.146Z - Connected to MongoDB Atlas
+2024-12-02T13:46:16.146Z - Connected to MongoDB Atlas
+2024-12-02T13:46:16.148Z - Connected to MongoDB Atlas
+2024-12-02T13:46:16.149Z - Connected to MongoDB Atlas
+2024-12-02T13:46:16.151Z - Connected to MongoDB Atlas
+2024-12-02T13:46:16.154Z - Connected to MongoDB Atlas
+2024-12-02T13:46:16.156Z - Connected to MongoDB Atlas
+2024-12-02T13:46:16.152Z - Connected to MongoDB Atlas
+2024-12-02T13:46:16.170Z - Connected to MongoDB Atlas
+2024-12-02T13:46:16.159Z - Connected to MongoDB Atlas
+2024-12-02T13:46:16.166Z - Successfully fetched courses
+2024-12-02T13:46:16.173Z - Connected to MongoDB Atlas
+2024-12-02T13:46:16.176Z - Connected to MongoDB Atlas
+2024-12-02T13:46:16.177Z - Connected to MongoDB Atlas
+2024-12-02T13:46:16.175Z - Connected to MongoDB Atlas
+2024-12-02T13:46:16.181Z - Connected to MongoDB Atlas
+2024-12-02T13:46:16.181Z - Connected to MongoDB Atlas
+2024-12-02T13:46:16.183Z - Successfully fetched courses
+2024-12-02T13:46:16.184Z - Connected to MongoDB Atlas
+2024-12-02T13:46:16.186Z - Connected to MongoDB Atlas
+2024-12-02T13:46:16.187Z - Connected to MongoDB Atlas
+2024-12-02T13:46:16.179Z - Connected to MongoDB Atlas
+2024-12-02T13:46:16.180Z - Connected to MongoDB Atlas
+2024-12-02T13:46:16.191Z - Connected to MongoDB Atlas
+2024-12-02T13:46:16.193Z - Connected to MongoDB Atlas
+2024-12-02T13:46:16.197Z - Connected to MongoDB Atlas
+2024-12-02T13:46:16.194Z - Connected to MongoDB Atlas
+2024-12-02T13:46:16.198Z - Connected to MongoDB Atlas
+2024-12-02T13:46:16.200Z - Connected to MongoDB Atlas
+2024-12-02T13:46:16.210Z - Connected to MongoDB Atlas
+2024-12-02T13:46:16.213Z - Connected to MongoDB Atlas
+2024-12-02T13:46:16.219Z - Successfully fetched courses
+2024-12-02T13:46:16.222Z - Connected to MongoDB Atlas
+2024-12-02T13:46:16.227Z - Connected to MongoDB Atlas
+2024-12-02T13:46:16.230Z - Connected to MongoDB Atlas
+2024-12-02T13:46:16.201Z - Connected to MongoDB Atlas
+2024-12-02T13:46:16.202Z - Connected to MongoDB Atlas
+2024-12-02T13:46:16.208Z - Connected to MongoDB Atlas
+2024-12-02T13:46:16.244Z - Successfully fetched courses
+2024-12-02T13:46:16.251Z - Successfully fetched courses
+2024-12-02T13:46:16.261Z - Successfully fetched courses
+2024-12-02T13:46:16.266Z - Successfully fetched courses
+2024-12-02T13:46:16.277Z - Connected to MongoDB Atlas
+2024-12-02T13:46:16.272Z - Successfully fetched courses
+2024-12-02T13:46:16.275Z - Connected to MongoDB Atlas
+2024-12-02T13:46:16.289Z - Connected to MongoDB Atlas
+2024-12-02T13:46:16.287Z - Successfully fetched courses
+2024-12-02T13:46:16.294Z - Connected to MongoDB Atlas
+2024-12-02T13:46:16.292Z - Successfully fetched courses
+2024-12-02T13:46:16.298Z - Connected to MongoDB Atlas
+2024-12-02T13:46:16.283Z - Successfully fetched courses
+2024-12-02T13:46:16.299Z - Connected to MongoDB Atlas
+2024-12-02T13:46:16.297Z - Successfully fetched courses
+2024-12-02T13:46:16.302Z - Connected to MongoDB Atlas
+2024-12-02T13:46:16.300Z - Connected to MongoDB Atlas
+2024-12-02T13:46:16.305Z - Successfully fetched courses
+2024-12-02T13:46:16.311Z - Connected to MongoDB Atlas
+2024-12-02T13:46:16.310Z - Successfully fetched courses
+2024-12-02T13:46:16.318Z - Successfully fetched courses
+2024-12-02T13:46:16.319Z - Connected to MongoDB Atlas
+2024-12-02T13:46:16.321Z - Connected to MongoDB Atlas
+2024-12-02T13:46:16.324Z - Connected to MongoDB Atlas
+2024-12-02T13:46:16.330Z - Successfully fetched courses
+2024-12-02T13:46:16.335Z - Successfully fetched courses
+2024-12-02T13:46:16.332Z - Successfully fetched courses
+2024-12-02T13:46:16.336Z - Connected to MongoDB Atlas
+2024-12-02T13:46:16.339Z - Successfully fetched courses
+2024-12-02T13:46:16.340Z - Connected to MongoDB Atlas
+2024-12-02T13:46:16.341Z - Connected to MongoDB Atlas
+2024-12-02T13:46:16.344Z - Successfully fetched courses
+2024-12-02T13:46:16.346Z - Successfully fetched courses
+2024-12-02T13:46:16.325Z - Connected to MongoDB Atlas
+2024-12-02T13:46:16.349Z - Successfully fetched courses
+2024-12-02T13:46:16.342Z - Connected to MongoDB Atlas
+2024-12-02T13:46:16.350Z - Connected to MongoDB Atlas
+2024-12-02T13:46:16.352Z - Successfully fetched courses
+2024-12-02T13:46:16.347Z - Connected to MongoDB Atlas
+2024-12-02T13:46:16.359Z - Successfully fetched courses
+2024-12-02T13:46:16.361Z - Successfully fetched courses
+2024-12-02T13:46:16.355Z - Successfully fetched courses
+2024-12-02T13:46:16.363Z - Successfully fetched courses
+2024-12-02T13:46:16.364Z - Successfully fetched courses
+2024-12-02T13:46:16.371Z - Connected to MongoDB Atlas
+2024-12-02T13:46:16.368Z - Successfully fetched courses
+2024-12-02T13:46:16.370Z - Successfully fetched courses
+2024-12-02T13:46:16.365Z - Connected to MongoDB Atlas
+2024-12-02T13:46:16.375Z - Successfully fetched courses
+2024-12-02T13:46:16.377Z - Successfully fetched courses
+2024-12-02T13:46:16.380Z - Connected to MongoDB Atlas
+2024-12-02T13:46:16.384Z - Received request for /api/courses
+2024-12-02T13:46:16.382Z - Successfully fetched courses
+2024-12-02T13:46:16.380Z - Successfully fetched courses
+2024-12-02T13:46:16.548Z - Received request for /api/courses
+2024-12-02T13:46:16.701Z - Received request for /api/courses
+2024-12-02T13:46:16.873Z - Received request for /api/courses
+2024-12-02T13:46:17.050Z - Received request for /api/courses
+2024-12-02T13:46:17.146Z - Successfully fetched courses
+2024-12-02T13:46:17.147Z - Connected to MongoDB Atlas
+2024-12-02T13:46:17.153Z - Successfully fetched courses
+2024-12-02T13:46:17.148Z - Connected to MongoDB Atlas
+2024-12-02T13:46:17.150Z - Connected to MongoDB Atlas
+2024-12-02T13:46:17.158Z - Successfully fetched courses
+2024-12-02T13:46:17.168Z - Successfully fetched courses
+2024-12-02T13:46:17.171Z - Successfully fetched courses
+2024-12-02T13:46:17.174Z - Successfully fetched courses
+2024-12-02T13:46:17.162Z - Successfully fetched courses
+2024-12-02T13:46:17.164Z - Successfully fetched courses
+2024-12-02T13:46:17.165Z - Connected to MongoDB Atlas
+2024-12-02T13:46:17.180Z - Connected to MongoDB Atlas
+2024-12-02T13:46:17.178Z - Connected to MongoDB Atlas
+2024-12-02T13:46:17.186Z - Connected to MongoDB Atlas
+2024-12-02T13:46:17.189Z - Connected to MongoDB Atlas
+2024-12-02T13:46:17.182Z - Connected to MongoDB Atlas
+2024-12-02T13:46:17.196Z - Successfully fetched courses
+2024-12-02T13:46:17.203Z - Connected to MongoDB Atlas
+2024-12-02T13:46:17.201Z - Successfully fetched courses
+2024-12-02T13:46:17.206Z - Connected to MongoDB Atlas
+2024-12-02T13:46:17.192Z - Connected to MongoDB Atlas
+2024-12-02T13:46:17.230Z - Successfully fetched courses
+2024-12-02T13:46:17.225Z - Connected to MongoDB Atlas
+2024-12-02T13:46:17.222Z - Successfully fetched courses
+2024-12-02T13:46:17.216Z - Successfully fetched courses
+2024-12-02T13:46:17.242Z - Successfully fetched courses
+2024-12-02T13:46:17.234Z - Successfully fetched courses
+2024-12-02T13:46:17.237Z - Successfully fetched courses
+2024-12-02T13:46:17.246Z - Successfully fetched courses
+2024-12-02T13:46:17.262Z - Successfully fetched courses
+2024-12-02T13:46:17.249Z - Successfully fetched courses
+2024-12-02T13:46:17.252Z - Successfully fetched courses
+2024-12-02T13:46:17.272Z - Successfully fetched courses
+2024-12-02T13:46:17.267Z - Successfully fetched courses
+2024-12-02T13:46:17.279Z - Successfully fetched courses
+2024-12-02T13:46:17.276Z - Successfully fetched courses
+2024-12-02T13:46:17.284Z - Successfully fetched courses
+2024-12-02T13:46:17.292Z - Successfully fetched courses
+2024-12-02T13:46:17.281Z - Successfully fetched courses
+2024-12-02T13:46:17.287Z - Successfully fetched courses
+2024-12-02T13:46:17.300Z - Successfully fetched courses
+2024-12-02T13:46:17.303Z - Successfully fetched courses
+2024-12-02T13:46:17.308Z - Successfully fetched courses
+2024-12-02T13:46:17.320Z - Successfully fetched courses
+2024-12-02T13:46:17.315Z - Connected to MongoDB Atlas
+2024-12-02T13:46:17.332Z - Successfully fetched courses
+2024-12-02T13:46:17.337Z - Successfully fetched courses
+2024-12-02T13:46:17.342Z - Connected to MongoDB Atlas
+2024-12-02T13:46:17.314Z - Successfully fetched courses
+2024-12-02T13:46:17.350Z - Connected to MongoDB Atlas
+2024-12-02T13:46:17.347Z - Successfully fetched courses
+2024-12-02T13:46:17.353Z - Successfully fetched courses
+2024-12-02T13:46:17.348Z - Connected to MongoDB Atlas
+2024-12-02T13:46:17.357Z - Successfully fetched courses
+2024-12-02T13:46:17.361Z - Successfully fetched courses
+2024-12-02T13:46:17.366Z - Connected to MongoDB Atlas
+2024-12-02T13:46:17.365Z - Successfully fetched courses
+2024-12-02T13:46:17.367Z - Connected to MongoDB Atlas
+2024-12-02T13:46:17.362Z - Connected to MongoDB Atlas
+2024-12-02T13:46:17.394Z - Successfully fetched courses
+2024-12-02T13:46:17.372Z - Received request for /api/courses
+2024-12-02T13:46:17.400Z - Successfully fetched courses
+2024-12-02T13:46:17.427Z - Successfully fetched courses
+2024-12-02T13:46:17.432Z - Successfully fetched courses
+2024-12-02T13:46:17.435Z - Successfully fetched courses
+2024-12-02T13:46:17.495Z - Received request for /api/courses
+2024-12-02T13:46:17.662Z - Received request for /api/courses
+2024-12-02T13:46:18.170Z - Successfully fetched courses
+2024-12-02T13:46:18.174Z - Successfully fetched courses
+2024-12-02T13:46:18.172Z - Successfully fetched courses
+2024-12-02T13:46:18.339Z - Received request for /api/courses
+2024-12-02T13:46:18.515Z - Received request for /api/courses
+2024-12-02T13:46:18.684Z - Received request for /api/courses
+2024-12-02T13:46:18.844Z - Received request for /api/courses
+2024-12-02T13:46:23.993Z - Connected to MongoDB Atlas
+2024-12-02T13:46:23.994Z - Connected to MongoDB Atlas
+2024-12-02T13:46:24.013Z - Connected to MongoDB Atlas
+2024-12-02T13:46:24.017Z - Connected to MongoDB Atlas
+2024-12-02T13:46:24.023Z - Connected to MongoDB Atlas
+2024-12-02T13:46:24.025Z - Connected to MongoDB Atlas
+2024-12-02T13:46:24.026Z - Connected to MongoDB Atlas
+2024-12-02T13:46:24.053Z - Connected to MongoDB Atlas
+2024-12-02T13:46:24.055Z - Connected to MongoDB Atlas
+2024-12-02T13:46:24.055Z - Connected to MongoDB Atlas
+2024-12-02T13:46:24.057Z - Connected to MongoDB Atlas
+2024-12-02T13:46:24.058Z - Connected to MongoDB Atlas
+2024-12-02T13:46:24.064Z - Successfully fetched courses
+2024-12-02T13:46:24.069Z - Successfully fetched courses
+2024-12-02T13:46:24.083Z - Successfully fetched courses
+2024-12-02T13:46:24.088Z - Connected to MongoDB Atlas
+2024-12-02T13:46:24.090Z - Connected to MongoDB Atlas
+2024-12-02T13:46:24.092Z - Connected to MongoDB Atlas
+2024-12-02T13:46:24.099Z - Successfully fetched courses
+2024-12-02T13:46:24.106Z - Successfully fetched courses
+2024-12-02T13:46:24.126Z - Successfully fetched courses
+2024-12-02T13:46:24.116Z - Connected to MongoDB Atlas
+2024-12-02T13:46:24.114Z - Successfully fetched courses
+2024-12-02T13:46:24.138Z - Successfully fetched courses
+2024-12-02T13:46:24.145Z - Successfully fetched courses
+2024-12-02T13:46:24.150Z - Successfully fetched courses
+2024-12-02T13:46:24.157Z - Successfully fetched courses
+2024-12-02T13:46:24.159Z - Successfully fetched courses
+2024-12-02T13:46:24.277Z - Received request for /api/courses
+2024-12-02T13:46:24.502Z - Successfully fetched courses
+2024-12-02T13:46:24.531Z - Successfully fetched courses
+2024-12-02T13:46:24.537Z - Successfully fetched courses
+2024-12-02T13:46:24.560Z - Successfully fetched courses
+2024-12-02T13:46:24.712Z - Received request for /api/courses
+2024-12-02T13:46:24.884Z - Received request for /api/courses
+2024-12-02T13:46:25.063Z - Received request for /api/courses
+2024-12-02T13:46:32.081Z - Connected to MongoDB Atlas
+2024-12-02T13:46:32.154Z - Successfully fetched courses
+2024-12-02T13:46:32.319Z - Received request for /api/courses
+2024-12-02T13:46:32.504Z - Received request for /api/courses
+2024-12-02T13:46:32.665Z - Received request for /api/courses
+2024-12-02T13:46:32.813Z - Received request for /api/courses
+2024-12-02T13:46:32.971Z - Received request for /api/courses
+2024-12-02T13:46:33.096Z - Connected to MongoDB Atlas
+2024-12-02T13:46:33.098Z - Connected to MongoDB Atlas
+2024-12-02T13:46:33.102Z - Connected to MongoDB Atlas
+2024-12-02T13:46:33.106Z - Connected to MongoDB Atlas
+2024-12-02T13:46:33.160Z - Received request for /api/courses
+2024-12-02T13:46:33.176Z - Successfully fetched courses
+2024-12-02T13:46:33.181Z - Successfully fetched courses
+2024-12-02T13:46:33.189Z - Successfully fetched courses
+2024-12-02T13:46:33.195Z - Successfully fetched courses
+2024-12-02T13:46:33.399Z - Received request for /api/courses
+2024-12-02T13:46:33.596Z - Received request for /api/courses
+2024-12-02T13:46:33.748Z - Received request for /api/courses
+2024-12-02T13:46:33.872Z - Connected to MongoDB Atlas
+2024-12-02T13:46:33.880Z - Connected to MongoDB Atlas
+2024-12-02T13:46:33.913Z - Received request for /api/courses
+2024-12-02T13:46:33.930Z - Connected to MongoDB Atlas
+2024-12-02T13:46:33.931Z - Connected to MongoDB Atlas
+2024-12-02T13:46:33.938Z - Connected to MongoDB Atlas
+2024-12-02T13:46:33.945Z - Successfully fetched courses
+2024-12-02T13:46:33.948Z - Successfully fetched courses
+2024-12-02T13:46:33.964Z - Connected to MongoDB Atlas
+2024-12-02T13:46:33.996Z - Successfully fetched courses
+2024-12-02T13:46:33.998Z - Successfully fetched courses
+2024-12-02T13:46:34.012Z - Successfully fetched courses
+2024-12-02T13:46:34.044Z - Successfully fetched courses
+2024-12-02T13:46:34.154Z - Received request for /api/courses
+2024-12-02T13:46:34.313Z - Received request for /api/courses
+2024-12-02T13:46:34.465Z - Received request for /api/courses
+2024-12-02T13:46:34.620Z - Received request for /api/courses
+2024-12-02T13:46:34.783Z - Received request for /api/courses
+2024-12-02T13:46:34.951Z - Received request for /api/courses
+2024-12-02T13:46:35.113Z - Received request for /api/courses
+2024-12-02T13:46:35.278Z - Received request for /api/courses
+2024-12-02T13:46:35.444Z - Received request for /api/courses
+2024-12-02T13:46:35.598Z - Received request for /api/courses
+2024-12-02T13:46:35.744Z - Received request for /api/courses
+2024-12-02T13:46:35.902Z - Received request for /api/courses
+2024-12-02T13:46:36.052Z - Received request for /api/courses
+2024-12-02T13:46:36.217Z - Received request for /api/courses
+2024-12-02T13:46:36.367Z - Received request for /api/courses
+2024-12-02T13:46:36.532Z - Received request for /api/courses
+2024-12-02T13:46:36.684Z - Received request for /api/courses
+2024-12-02T13:46:36.936Z - Received request for /api/courses
+2024-12-02T13:46:37.093Z - Received request for /api/courses
+2024-12-02T13:46:37.245Z - Received request for /api/courses
+2024-12-02T13:46:37.399Z - Received request for /api/courses
+2024-12-02T13:46:37.562Z - Received request for /api/courses
+2024-12-02T13:46:37.716Z - Received request for /api/courses
+2024-12-02T13:46:37.882Z - Received request for /api/courses
+2024-12-02T13:46:38.042Z - Received request for /api/courses
+2024-12-02T13:46:38.206Z - Received request for /api/courses
+2024-12-02T13:46:38.356Z - Received request for /api/courses
+2024-12-02T13:46:38.517Z - Received request for /api/courses
+2024-12-02T13:46:38.670Z - Received request for /api/courses
+2024-12-02T13:46:38.825Z - Received request for /api/courses
+2024-12-02T13:46:38.984Z - Received request for /api/courses
+2024-12-02T13:46:39.140Z - Received request for /api/courses
+2024-12-02T13:46:39.292Z - Received request for /api/courses
+2024-12-02T13:46:39.451Z - Received request for /api/courses
+2024-12-02T13:46:39.615Z - Received request for /api/courses
+2024-12-02T13:46:39.787Z - Received request for /api/courses
+2024-12-02T13:46:39.963Z - Received request for /api/courses
+2024-12-02T13:46:40.144Z - Received request for /api/courses
+2024-12-02T13:46:40.303Z - Received request for /api/courses
+2024-12-02T13:46:40.461Z - Received request for /api/courses
+2024-12-02T13:46:40.621Z - Received request for /api/courses
+2024-12-02T13:46:40.791Z - Received request for /api/courses
+2024-12-02T13:46:40.947Z - Received request for /api/courses
+2024-12-02T13:46:41.104Z - Received request for /api/courses
+2024-12-02T13:46:41.266Z - Received request for /api/courses
+2024-12-02T13:46:41.420Z - Received request for /api/courses
+2024-12-02T13:46:41.576Z - Received request for /api/courses
+2024-12-02T13:46:41.732Z - Received request for /api/courses
+2024-12-02T13:46:41.893Z - Received request for /api/courses
+2024-12-02T13:46:42.046Z - Received request for /api/courses
+2024-12-02T13:46:42.202Z - Received request for /api/courses
+2024-12-02T13:46:42.360Z - Received request for /api/courses
+2024-12-02T13:46:42.516Z - Received request for /api/courses
+2024-12-02T13:46:42.675Z - Received request for /api/courses
+2024-12-02T13:46:42.837Z - Received request for /api/courses
+2024-12-02T13:46:42.996Z - Received request for /api/courses
+2024-12-02T13:46:43.171Z - Received request for /api/courses
+2024-12-02T13:46:43.347Z - Received request for /api/courses
+2024-12-02T13:46:43.498Z - Received request for /api/courses
+2024-12-02T13:46:43.674Z - Received request for /api/courses
+2024-12-02T13:46:43.828Z - Received request for /api/courses
+2024-12-02T13:46:43.988Z - Received request for /api/courses
+2024-12-02T13:46:44.151Z - Received request for /api/courses
+2024-12-02T13:46:44.316Z - Received request for /api/courses
+2024-12-02T13:46:44.485Z - Received request for /api/courses
+2024-12-02T13:46:44.642Z - Received request for /api/courses
+2024-12-02T13:46:44.800Z - Received request for /api/courses
+2024-12-02T13:46:44.983Z - Received request for /api/courses
+2024-12-02T13:46:45.148Z - Received request for /api/courses
+2024-12-02T13:46:45.321Z - Received request for /api/courses
+2024-12-02T13:46:45.486Z - Received request for /api/courses
+2024-12-02T13:46:45.656Z - Received request for /api/courses
+2024-12-02T13:46:47.714Z - Connected to MongoDB Atlas
+2024-12-02T13:46:47.716Z - Connected to MongoDB Atlas
+2024-12-02T13:46:47.717Z - Connected to MongoDB Atlas
+2024-12-02T13:46:47.719Z - Connected to MongoDB Atlas
+2024-12-02T13:46:47.720Z - Connected to MongoDB Atlas
+2024-12-02T13:46:47.719Z - Connected to MongoDB Atlas
+2024-12-02T13:46:47.718Z - Connected to MongoDB Atlas
+2024-12-02T13:46:47.721Z - Connected to MongoDB Atlas
+2024-12-02T13:46:47.723Z - Connected to MongoDB Atlas
+2024-12-02T13:46:47.725Z - Connected to MongoDB Atlas
+2024-12-02T13:46:47.724Z - Connected to MongoDB Atlas
+2024-12-02T13:46:47.725Z - Connected to MongoDB Atlas
+2024-12-02T13:46:47.733Z - Connected to MongoDB Atlas
+2024-12-02T13:46:47.735Z - Connected to MongoDB Atlas
+2024-12-02T13:46:47.740Z - Connected to MongoDB Atlas
+2024-12-02T13:46:47.737Z - Connected to MongoDB Atlas
+2024-12-02T13:46:47.744Z - Connected to MongoDB Atlas
+2024-12-02T13:46:47.745Z - Connected to MongoDB Atlas
+2024-12-02T13:46:47.746Z - Connected to MongoDB Atlas
+2024-12-02T13:46:47.741Z - Connected to MongoDB Atlas
+2024-12-02T13:46:47.883Z - Received request for /api/courses
+2024-12-02T13:46:48.035Z - Received request for /api/courses
+2024-12-02T13:46:48.192Z - Received request for /api/courses
+2024-12-02T13:46:48.363Z - Received request for /api/courses
+2024-12-02T13:46:48.529Z - Received request for /api/courses
+2024-12-02T13:46:48.606Z - Connected to MongoDB Atlas
+2024-12-02T13:46:48.602Z - Connected to MongoDB Atlas
+2024-12-02T13:46:48.610Z - Connected to MongoDB Atlas
+2024-12-02T13:46:48.600Z - Connected to MongoDB Atlas
+2024-12-02T13:46:48.614Z - Successfully fetched courses
+2024-12-02T13:46:48.618Z - Successfully fetched courses
+2024-12-02T13:46:48.621Z - Successfully fetched courses
+2024-12-02T13:46:48.616Z - Successfully fetched courses
+2024-12-02T13:46:48.607Z - Connected to MongoDB Atlas
+2024-12-02T13:46:48.625Z - Successfully fetched courses
+2024-12-02T13:46:48.631Z - Successfully fetched courses
+2024-12-02T13:46:48.635Z - Successfully fetched courses
+2024-12-02T13:46:48.633Z - Connected to MongoDB Atlas
+2024-12-02T13:46:48.628Z - Successfully fetched courses
+2024-12-02T13:46:48.640Z - Successfully fetched courses
+2024-12-02T13:46:48.642Z - Successfully fetched courses
+2024-12-02T13:46:48.645Z - Successfully fetched courses
+2024-12-02T13:46:48.646Z - Connected to MongoDB Atlas
+2024-12-02T13:46:48.652Z - Successfully fetched courses
+2024-12-02T13:46:48.648Z - Connected to MongoDB Atlas
+2024-12-02T13:46:48.653Z - Connected to MongoDB Atlas
+2024-12-02T13:46:48.655Z - Connected to MongoDB Atlas
+2024-12-02T13:46:48.658Z - Successfully fetched courses
+2024-12-02T13:46:48.662Z - Successfully fetched courses
+2024-12-02T13:46:48.666Z - Successfully fetched courses
+2024-12-02T13:46:48.671Z - Successfully fetched courses
+2024-12-02T13:46:48.676Z - Successfully fetched courses
+2024-12-02T13:46:48.680Z - Successfully fetched courses
+2024-12-02T13:46:48.689Z - Successfully fetched courses
+2024-12-02T13:46:48.694Z - Successfully fetched courses
+2024-12-02T13:46:48.711Z - Successfully fetched courses
+2024-12-02T13:46:48.714Z - Connected to MongoDB Atlas
+2024-12-02T13:46:48.721Z - Connected to MongoDB Atlas
+2024-12-02T13:46:48.706Z - Successfully fetched courses
+2024-12-02T13:46:48.731Z - Successfully fetched courses
+2024-12-02T13:46:48.744Z - Successfully fetched courses
+2024-12-02T13:46:48.738Z - Successfully fetched courses
+2024-12-02T13:46:48.762Z - Connected to MongoDB Atlas
+2024-12-02T13:46:48.771Z - Connected to MongoDB Atlas
+2024-12-02T13:46:48.768Z - Successfully fetched courses
+2024-12-02T13:46:48.769Z - Connected to MongoDB Atlas
+2024-12-02T13:46:48.772Z - Connected to MongoDB Atlas
+2024-12-02T13:46:48.773Z - Connected to MongoDB Atlas
+2024-12-02T13:46:48.764Z - Connected to MongoDB Atlas
+2024-12-02T13:46:48.777Z - Successfully fetched courses
+2024-12-02T13:46:48.788Z - Successfully fetched courses
+2024-12-02T13:46:48.794Z - Received request for /api/courses
+2024-12-02T13:46:48.783Z - Successfully fetched courses
+2024-12-02T13:46:48.792Z - Successfully fetched courses
+2024-12-02T13:46:48.813Z - Successfully fetched courses
+2024-12-02T13:46:48.824Z - Connected to MongoDB Atlas
+2024-12-02T13:46:48.821Z - Successfully fetched courses
+2024-12-02T13:46:48.826Z - Connected to MongoDB Atlas
+2024-12-02T13:46:48.828Z - Connected to MongoDB Atlas
+2024-12-02T13:46:48.837Z - Connected to MongoDB Atlas
+2024-12-02T13:46:48.815Z - Connected to MongoDB Atlas
+2024-12-02T13:46:48.842Z - Connected to MongoDB Atlas
+2024-12-02T13:46:48.843Z - Connected to MongoDB Atlas
+2024-12-02T13:46:48.844Z - Connected to MongoDB Atlas
+2024-12-02T13:46:48.846Z - Connected to MongoDB Atlas
+2024-12-02T13:46:48.877Z - Successfully fetched courses
+2024-12-02T13:46:48.879Z - Connected to MongoDB Atlas
+2024-12-02T13:46:48.882Z - Successfully fetched courses
+2024-12-02T13:46:48.885Z - Successfully fetched courses
+2024-12-02T13:46:48.891Z - Successfully fetched courses
+2024-12-02T13:46:48.892Z - Connected to MongoDB Atlas
+2024-12-02T13:46:48.889Z - Successfully fetched courses
+2024-12-02T13:46:49.001Z - Received request for /api/courses
+2024-12-02T13:46:49.161Z - Received request for /api/courses
+2024-12-02T13:46:49.329Z - Received request for /api/courses
+2024-12-02T13:46:49.521Z - Received request for /api/courses
+2024-12-02T13:46:49.566Z - Successfully fetched courses
+2024-12-02T13:46:49.569Z - Successfully fetched courses
+2024-12-02T13:46:49.575Z - Successfully fetched courses
+2024-12-02T13:46:49.578Z - Successfully fetched courses
+2024-12-02T13:46:49.581Z - Successfully fetched courses
+2024-12-02T13:46:49.582Z - Successfully fetched courses
+2024-12-02T13:46:49.589Z - Successfully fetched courses
+2024-12-02T13:46:49.584Z - Successfully fetched courses
+2024-12-02T13:46:49.596Z - Successfully fetched courses
+2024-12-02T13:46:49.592Z - Successfully fetched courses
+2024-12-02T13:46:49.598Z - Successfully fetched courses
+2024-12-02T13:46:49.594Z - Successfully fetched courses
+2024-12-02T13:46:49.769Z - Received request for /api/courses
+2024-12-02T13:46:49.961Z - Received request for /api/courses
+2024-12-02T13:46:50.130Z - Received request for /api/courses
+2024-12-02T13:46:50.276Z - Received request for /api/courses
+2024-12-02T13:46:50.437Z - Received request for /api/courses
+2024-12-02T13:47:22.356Z - Connected to MongoDB Atlas
+2024-12-02T13:47:22.469Z - Connected to MongoDB Atlas
+2024-12-02T13:47:22.590Z - Successfully fetched courses
+2024-12-02T13:47:22.666Z - Successfully fetched courses
+2024-12-02T13:47:22.763Z - Connected to MongoDB Atlas
+2024-12-02T13:47:22.821Z - Received request for /api/courses
+2024-12-02T13:47:22.845Z - Connected to MongoDB Atlas
+2024-12-02T13:47:22.859Z - Connected to MongoDB Atlas
+2024-12-02T13:47:22.861Z - Connected to MongoDB Atlas
+2024-12-02T13:47:22.890Z - Successfully fetched courses
+2024-12-02T13:47:22.900Z - Connected to MongoDB Atlas
+2024-12-02T13:47:22.986Z - Received request for /api/courses
+2024-12-02T13:47:22.997Z - Successfully fetched courses
+2024-12-02T13:47:23.177Z - Received request for /api/courses
+2024-12-02T13:47:23.393Z - Received request for /api/courses
+2024-12-02T13:47:23.551Z - Connected to MongoDB Atlas
+2024-12-02T13:47:23.569Z - Connected to MongoDB Atlas
+2024-12-02T13:47:23.555Z - Connected to MongoDB Atlas
+2024-12-02T13:47:23.571Z - Connected to MongoDB Atlas
+2024-12-02T13:47:23.576Z - Connected to MongoDB Atlas
+2024-12-02T13:47:23.580Z - Connected to MongoDB Atlas
+2024-12-02T13:47:23.573Z - Connected to MongoDB Atlas
+2024-12-02T13:47:23.590Z - Connected to MongoDB Atlas
+2024-12-02T13:47:23.591Z - Connected to MongoDB Atlas
+2024-12-02T13:47:23.602Z - Successfully fetched courses
+2024-12-02T13:47:23.611Z - Successfully fetched courses
+2024-12-02T13:47:23.620Z - Successfully fetched courses
+2024-12-02T13:47:23.622Z - Connected to MongoDB Atlas
+2024-12-02T13:47:23.626Z - Connected to MongoDB Atlas
+2024-12-02T13:47:23.639Z - Successfully fetched courses
+2024-12-02T13:47:23.644Z - Connected to MongoDB Atlas
+2024-12-02T13:47:23.646Z - Connected to MongoDB Atlas
+2024-12-02T13:47:23.633Z - Successfully fetched courses
+2024-12-02T13:47:23.649Z - Connected to MongoDB Atlas
+2024-12-02T13:47:23.660Z - Successfully fetched courses
+2024-12-02T13:47:23.665Z - Successfully fetched courses
+2024-12-02T13:47:23.674Z - Successfully fetched courses
+2024-12-02T13:47:23.669Z - Connected to MongoDB Atlas
+2024-12-02T13:47:23.655Z - Successfully fetched courses
+2024-12-02T13:47:23.683Z - Successfully fetched courses
+2024-12-02T13:47:23.689Z - Connected to MongoDB Atlas
+2024-12-02T13:47:23.685Z - Connected to MongoDB Atlas
+2024-12-02T13:47:23.686Z - Connected to MongoDB Atlas
+2024-12-02T13:47:23.695Z - Successfully fetched courses
+2024-12-02T13:47:23.690Z - Connected to MongoDB Atlas
+2024-12-02T13:47:23.699Z - Successfully fetched courses
+2024-12-02T13:47:23.701Z - Connected to MongoDB Atlas
+2024-12-02T13:47:23.708Z - Connected to MongoDB Atlas
+2024-12-02T13:47:23.714Z - Received request for /api/courses
+2024-12-02T13:47:23.704Z - Connected to MongoDB Atlas
+2024-12-02T13:47:23.710Z - Connected to MongoDB Atlas
+2024-12-02T13:47:23.729Z - Successfully fetched courses
+2024-12-02T13:47:23.725Z - Successfully fetched courses
+2024-12-02T13:47:23.734Z - Connected to MongoDB Atlas
+2024-12-02T13:47:23.736Z - Connected to MongoDB Atlas
+2024-12-02T13:47:23.732Z - Connected to MongoDB Atlas
+2024-12-02T13:47:23.750Z - Successfully fetched courses
+2024-12-02T13:47:23.743Z - Connected to MongoDB Atlas
+2024-12-02T13:47:23.741Z - Successfully fetched courses
+2024-12-02T13:47:23.757Z - Successfully fetched courses
+2024-12-02T13:47:23.752Z - Connected to MongoDB Atlas
+2024-12-02T13:47:23.762Z - Connected to MongoDB Atlas
+2024-12-02T13:47:23.774Z - Successfully fetched courses
+2024-12-02T13:47:23.787Z - Successfully fetched courses
+2024-12-02T13:47:23.776Z - Connected to MongoDB Atlas
+2024-12-02T13:47:23.799Z - Successfully fetched courses
+2024-12-02T13:47:23.794Z - Connected to MongoDB Atlas
+2024-12-02T13:47:23.792Z - Successfully fetched courses
+2024-12-02T13:47:23.806Z - Successfully fetched courses
+2024-12-02T13:47:23.810Z - Successfully fetched courses
+2024-12-02T13:47:23.811Z - Connected to MongoDB Atlas
+2024-12-02T13:47:23.822Z - Successfully fetched courses
+2024-12-02T13:47:23.827Z - Successfully fetched courses
+2024-12-02T13:47:23.818Z - Successfully fetched courses
+2024-12-02T13:47:23.828Z - Connected to MongoDB Atlas
+2024-12-02T13:47:23.830Z - Connected to MongoDB Atlas
+2024-12-02T13:47:23.838Z - Successfully fetched courses
+2024-12-02T13:47:23.833Z - Connected to MongoDB Atlas
+2024-12-02T13:47:23.845Z - Successfully fetched courses
+2024-12-02T13:47:24.158Z - Received request for /api/courses
+2024-12-02T13:47:24.332Z - Received request for /api/courses
+2024-12-02T13:47:24.486Z - Received request for /api/courses
+2024-12-02T13:47:24.556Z - Successfully fetched courses
+2024-12-02T13:47:24.560Z - Successfully fetched courses
+2024-12-02T13:47:24.569Z - Successfully fetched courses
+2024-12-02T13:47:24.562Z - Successfully fetched courses
+2024-12-02T13:47:24.572Z - Successfully fetched courses
+2024-12-02T13:47:24.566Z - Successfully fetched courses
+2024-12-02T13:47:24.574Z - Successfully fetched courses
+2024-12-02T13:47:24.582Z - Successfully fetched courses
+2024-12-02T13:47:24.579Z - Successfully fetched courses
+2024-12-02T13:47:24.584Z - Successfully fetched courses
+2024-12-02T13:47:24.741Z - Received request for /api/courses
+2024-12-02T13:47:24.906Z - Received request for /api/courses
+2024-12-02T13:47:25.072Z - Received request for /api/courses
+2024-12-02T13:47:25.227Z - Received request for /api/courses
+2024-12-02T13:47:25.403Z - Received request for /api/courses
+2024-12-02T13:47:25.570Z - Received request for /api/courses
+2024-12-02T13:47:25.724Z - Received request for /api/courses
+2024-12-02T13:47:25.879Z - Received request for /api/courses
+2024-12-02T13:47:26.049Z - Received request for /api/courses
+2024-12-02T13:47:26.210Z - Received request for /api/courses
+2024-12-02T13:47:26.373Z - Received request for /api/courses
+2024-12-02T13:47:26.540Z - Received request for /api/courses
+2024-12-02T13:47:26.692Z - Received request for /api/courses
+2024-12-02T13:47:26.850Z - Received request for /api/courses
+2024-12-02T13:47:31.147Z - Connected to MongoDB Atlas
+2024-12-02T13:47:31.162Z - Connected to MongoDB Atlas
+2024-12-02T13:47:31.164Z - Connected to MongoDB Atlas
+2024-12-02T13:47:31.175Z - Connected to MongoDB Atlas
+2024-12-02T13:47:31.174Z - Connected to MongoDB Atlas
+2024-12-02T13:47:31.175Z - Connected to MongoDB Atlas
+2024-12-02T13:47:31.176Z - Connected to MongoDB Atlas
+2024-12-02T13:47:31.209Z - Connected to MongoDB Atlas
+2024-12-02T13:47:31.214Z - Successfully fetched courses
+2024-12-02T13:47:31.214Z - Connected to MongoDB Atlas
+2024-12-02T13:47:31.227Z - Successfully fetched courses
+2024-12-02T13:47:31.229Z - Successfully fetched courses
+2024-12-02T13:47:31.241Z - Successfully fetched courses
+2024-12-02T13:47:31.246Z - Connected to MongoDB Atlas
+2024-12-02T13:47:31.246Z - Successfully fetched courses
+2024-12-02T13:47:31.243Z - Successfully fetched courses
+2024-12-02T13:47:31.249Z - Successfully fetched courses
+2024-12-02T13:47:31.252Z - Connected to MongoDB Atlas
+2024-12-02T13:47:31.251Z - Connected to MongoDB Atlas
+2024-12-02T13:47:31.367Z - Received request for /api/courses
+2024-12-02T13:47:31.527Z - Received request for /api/courses
+2024-12-02T13:47:31.658Z - Connected to MongoDB Atlas
+2024-12-02T13:47:31.660Z - Connected to MongoDB Atlas
+2024-12-02T13:47:31.662Z - Connected to MongoDB Atlas
+2024-12-02T13:47:31.659Z - Connected to MongoDB Atlas
+2024-12-02T13:47:31.661Z - Connected to MongoDB Atlas
+2024-12-02T13:47:31.664Z - Connected to MongoDB Atlas
+2024-12-02T13:47:31.668Z - Successfully fetched courses
+2024-12-02T13:47:31.672Z - Successfully fetched courses
+2024-12-02T13:47:31.673Z - Connected to MongoDB Atlas
+2024-12-02T13:47:31.672Z - Connected to MongoDB Atlas
+2024-12-02T13:47:31.691Z - Successfully fetched courses
+2024-12-02T13:47:31.697Z - Received request for /api/courses
+2024-12-02T13:47:31.695Z - Successfully fetched courses
+2024-12-02T13:47:31.703Z - Successfully fetched courses
+2024-12-02T13:47:31.733Z - Successfully fetched courses
+2024-12-02T13:47:31.745Z - Successfully fetched courses
+2024-12-02T13:47:31.750Z - Successfully fetched courses
+2024-12-02T13:47:31.738Z - Successfully fetched courses
+2024-12-02T13:47:31.742Z - Successfully fetched courses
+2024-12-02T13:47:31.756Z - Successfully fetched courses
+2024-12-02T13:47:31.759Z - Successfully fetched courses
+2024-12-02T13:47:31.761Z - Successfully fetched courses
+2024-12-02T13:47:31.919Z - Received request for /api/courses
+2024-12-02T13:47:32.075Z - Received request for /api/courses
+2024-12-02T13:47:32.236Z - Received request for /api/courses
+2024-12-02T13:47:32.390Z - Received request for /api/courses
+2024-12-02T13:47:32.543Z - Received request for /api/courses
+2024-12-02T13:47:32.696Z - Received request for /api/courses
+2024-12-02T13:47:32.856Z - Received request for /api/courses
+2024-12-02T13:47:33.009Z - Received request for /api/courses
+2024-12-02T13:47:33.164Z - Received request for /api/courses
+2024-12-02T13:47:33.337Z - Received request for /api/courses
+2024-12-02T13:47:33.493Z - Received request for /api/courses
+2024-12-02T13:47:33.645Z - Received request for /api/courses
+2024-12-02T13:47:33.798Z - Received request for /api/courses
+2024-12-02T13:47:33.953Z - Received request for /api/courses
+2024-12-02T13:47:34.116Z - Received request for /api/courses
+2024-12-02T13:47:34.379Z - Received request for /api/courses
+2024-12-02T13:47:34.536Z - Received request for /api/courses
+2024-12-02T13:47:34.694Z - Received request for /api/courses
+2024-12-02T13:47:34.854Z - Received request for /api/courses
+2024-12-02T13:47:35.007Z - Received request for /api/courses
+2024-12-02T13:47:35.161Z - Received request for /api/courses
+2024-12-02T13:47:35.317Z - Received request for /api/courses
+2024-12-02T13:47:35.474Z - Received request for /api/courses
+2024-12-02T13:47:35.630Z - Received request for /api/courses
+2024-12-02T13:47:35.788Z - Received request for /api/courses
+2024-12-02T13:47:35.943Z - Received request for /api/courses
+2024-12-02T13:47:36.101Z - Received request for /api/courses
+2024-12-02T13:47:36.252Z - Received request for /api/courses
+2024-12-02T13:47:36.395Z - Received request for /api/courses
+2024-12-02T13:47:36.543Z - Received request for /api/courses
+2024-12-02T13:47:36.698Z - Received request for /api/courses
+2024-12-02T13:47:36.858Z - Received request for /api/courses
+2024-12-02T13:47:37.007Z - Received request for /api/courses
+2024-12-02T13:47:38.290Z - Received request for /api/courses
+2024-12-02T13:47:39.089Z - Connected to MongoDB Atlas
+2024-12-02T13:47:39.130Z - Connected to MongoDB Atlas
+2024-12-02T13:47:39.160Z - Successfully fetched courses
+2024-12-02T13:47:39.206Z - Successfully fetched courses
+2024-12-02T13:47:39.315Z - Received request for /api/courses
+2024-12-02T13:47:39.463Z - Received request for /api/courses
+2024-12-02T13:47:39.605Z - Received request for /api/courses
