@@ -9,7 +9,6 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
-//conection string 
 const uri = process.env.MONGO_URI;
 
 async function fetchCourses() {
@@ -37,6 +36,51 @@ async function fetchCourses() {
   }
 }
 
+async function saveToCart(cartItem) {
+  let client;
+
+  try {
+    client = await MongoClient.connect(uri, {
+      useNewUrlParser: true,
+      useUnifiedTopology: true,
+      ssl: true,
+    });
+
+    const db = client.db('MyLibrary');
+    const cartCollection = db.collection('cart');
+
+    const result = await cartCollection.insertOne(cartItem);
+    return result;
+  } catch (error) {
+    console.error("Error saving to cart:", error.message);
+    throw error;
+  } finally {
+    if (client) {
+      await client.close();
+    }
+  }
+}
+
+app.post('/api/cart', async (req, res) => {
+  const cartItem = req.body;
+
+  try {
+    cartItem.addedAt = new Date();
+
+    const result = await saveToCart(cartItem);
+
+    res.status(201).json({
+      message: 'Item added to cart',
+      cartItemId: result.insertedId,
+    });
+  } catch (error) {
+    res.status(500).json({
+      message: 'Error saving to cart',
+      error: error.message,
+    });
+  }
+});
+
 app.get('/api/courses', async (req, res) => {
   try {
     const courses = await fetchCourses();
@@ -45,7 +89,10 @@ app.get('/api/courses', async (req, res) => {
     }
     return res.status(200).json(courses);
   } catch (error) {
-    return res.status(500).json({ message: 'Error retrieving courses', error: error.message });
+    return res.status(500).json({
+      message: 'Error retrieving courses',
+      error: error.message,
+    });
   }
 });
 

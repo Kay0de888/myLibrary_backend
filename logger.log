@@ -1,0 +1,207 @@
+[2024-12-12T05:19:26.395Z] Server running on port 5000
+[2024-12-12T05:19:28.911Z] Courses fetched successfully
+[2024-12-12T05:19:28.917Z] GET /api/courses - Courses retrieved successfully
+[2024-12-12T05:19:28.917Z] MongoDB client closed after fetching courses
+[2024-12-12T05:19:30.757Z] Courses fetched successfully
+[2024-12-12T05:19:30.762Z] MongoDB client closed after fetching courses
+[2024-12-12T05:19:30.763Z] GET /api/courses - Courses retrieved successfully
+[2024-12-12T05:19:32.212Z] Courses fetched successfully
+[2024-12-12T05:19:32.218Z] GET /api/courses - Courses retrieved successfully
+[2024-12-12T05:19:32.218Z] MongoDB client closed after fetching courses
+[2024-12-12T05:19:33.862Z] Courses fetched successfully
+[2024-12-12T05:19:33.865Z] MongoDB client closed after fetching courses
+[2024-12-12T05:19:33.865Z] GET /api/courses - Courses retrieved successfully
+[2024-12-12T05:19:35.629Z] Courses fetched successfully
+[2024-12-12T05:19:35.635Z] MongoDB client closed after fetching courses
+[2024-12-12T05:19:35.636Z] GET /api/courses - Courses retrieved successfully
+[2024-12-12T05:19:37.346Z] Courses fetched successfully
+[2024-12-12T05:19:37.354Z] MongoDB client closed after fetching courses
+[2024-12-12T05:19:37.354Z] GET /api/courses - Courses retrieved successfully
+[2024-12-12T05:19:39.856Z] Courses fetched successfully
+[2024-12-12T05:19:39.862Z] MongoDB client closed after fetching courses
+[2024-12-12T05:19:39.863Z] GET /api/courses - Courses retrieved successfully
+[2024-12-12T05:19:41.743Z] Courses fetched successfully
+[2024-12-12T05:19:41.748Z] MongoDB client closed after fetching courses
+[2024-12-12T05:19:41.749Z] GET /api/courses - Courses retrieved successfully
+[2024-12-12T05:19:43.454Z] Courses fetched successfully
+[2024-12-12T05:19:43.458Z] MongoDB client closed after fetching courses
+[2024-12-12T05:19:43.458Z] GET /api/courses - Courses retrieved successfully
+[2024-12-12T05:19:45.178Z] Courses fetched successfully
+[2024-12-12T05:19:45.182Z] MongoDB client closed after fetching courses
+[2024-12-12T05:19:45.182Z] GET /api/courses - Courses retrieved successfully
+[2024-12-12T05:19:46.763Z] Courses fetched successfully
+[2024-12-12T05:19:46.768Z] MongoDB client closed after fetching courses
+[2024-12-12T05:19:46.768Z] GET /api/courses - Courses retrieved successfully
+[2024-12-12T05:19:48.519Z] Courses fetched successfully
+[2024-12-12T05:19:48.524Z] MongoDB client closed after fetching courses
+[2024-12-12T05:19:48.524Z] GET /api/courses - Courses retrieved successfully
+[2024-12-12T05:19:51.413Z] Courses fetched successfully
+[2024-12-12T05:19:51.416Z] MongoDB client closed after fetching courses
+[2024-12-12T05:19:51.416Z] GET /api/courses - Courses retrieved successfully
+[2024-12-12T05:19:53.185Z] Courses fetched successfully
+[2024-12-12T05:19:53.190Z] MongoDB client closed after fetching courses
+[2024-12-12T05:19:53.190Z] GET /api/courses - Courses retrieved successfully
+[2024-12-12T05:19:54.887Z] Courses fetched successfully
+[2024-12-12T05:19:54.892Z] MongoDB client closed after fetching courses
+[2024-12-12T05:19:54.892Z] GET /api/courses - Courses retrieved successfully
+[2024-12-12T05:19:56.592Z] Courses fetched successfully
+[2024-12-12T05:19:56.597Z] MongoDB client closed after fetching courses
+[2024-12-12T05:19:56.597Z] GET /api/courses - Courses retrieved successfully
+[2024-12-12T05:19:58.396Z] Courses fetched successfully
+[2024-12-12T05:19:58.402Z] MongoDB client closed after fetching courses
+[2024-12-12T05:19:58.403Z] GET /api/courses - Courses retrieved successfully
+[2024-12-12T05:20:00.265Z] Courses fetched successfully
+[2024-12-12T05:20:00.270Z] GET /api/courses - Courses retrieved successfully
+[2024-12-12T05:20:00.270Z] MongoDB client closed after fetching courses
+[2024-12-12T05:20:01.949Z] Courses fetched successfully
+[2024-12-12T05:20:01.954Z] MongoDB client closed after fetching courses
+[2024-12-12T05:20:01.954Z] GET /api/courses - Courses retrieved successfully
+[2024-12-12T05:20:03.861Z] Courses fetched successfully
+[2024-12-12T05:20:03.867Z] GET /api/courses - Courses retrieved successfully
+[2024-12-12T05:20:03.866Z] MongoDB client closed after fetching courses
+[2024-12-12T05:20:05.484Z] Courses fetched successfully
+[2024-12-12T05:20:05.489Z] GET /api/courses - Courses retrieved successfully
+[2024-12-12T05:20:05.489Z] MongoDB client closed after fetching courses
+[2024-12-12T05:20:07.450Z] Courses fetched successfully
+[2024-12-12T05:20:07.459Z] GET /api/courses - Courses retrieved successfully
+[2024-12-12T05:20:07.458Z] MongoDB client closed after fetching courses
+[2024-12-12T05:20:09.244Z] Courses fetched successfully
+[2024-12-12T05:20:09.248Z] MongoDB client closed after fetching courses
+[2024-12-12T05:20:09.248Z] GET /api/courses - Courses retrieved successfully
+[2024-12-12T05:20:10.927Z] Courses fetched successfully
+[2024-12-12T05:20:10.932Z] MongoDB client closed after fetching courses
+[2024-12-12T05:20:10.932Z] GET /api/courses - Courses retrieved successfully
+[2024-12-12T05:20:12.470Z] Courses fetched successfully
+[2024-12-12T05:20:12.471Z] MongoDB client closed after fetching courses
+[2024-12-12T05:20:12.471Z] GET /api/courses - Courses retrieved successfully
+[2024-12-12T05:20:14.272Z] Courses fetched successfully
+[2024-12-12T05:20:14.279Z] MongoDB client closed after fetching courses
+[2024-12-12T05:20:14.279Z] GET /api/courses - Courses retrieved successfully
+[2024-12-12T05:20:16.220Z] Courses fetched successfully
+[2024-12-12T05:20:16.224Z] MongoDB client closed after fetching courses
+[2024-12-12T05:20:16.225Z] GET /api/courses - Courses retrieved successfully
+[2024-12-12T05:20:18.245Z] Courses fetched successfully
+[2024-12-12T05:20:18.249Z] MongoDB client closed after fetching courses
+[2024-12-12T05:20:18.249Z] GET /api/courses - Courses retrieved successfully
+[2024-12-12T05:20:19.880Z] MongoDB client closed after fetching courses
+[2024-12-12T05:20:19.876Z] Courses fetched successfully
+[2024-12-12T05:20:19.881Z] GET /api/courses - Courses retrieved successfully
+[2024-12-12T05:20:21.482Z] Courses fetched successfully
+[2024-12-12T05:20:21.486Z] MongoDB client closed after fetching courses
+[2024-12-12T05:20:21.487Z] GET /api/courses - Courses retrieved successfully
+[2024-12-12T05:26:30.211Z] Server running on port 5000
+[2024-12-12T05:26:32.260Z] Courses fetched successfully
+[2024-12-12T05:26:32.273Z] MongoDB client closed after fetching courses
+[2024-12-12T05:26:32.273Z] GET /api/courses - Courses retrieved successfully
+[2024-12-12T05:26:34.186Z] Courses fetched successfully
+[2024-12-12T05:26:34.192Z] MongoDB client closed after fetching courses
+[2024-12-12T05:26:34.193Z] GET /api/courses - Courses retrieved successfully
+[2024-12-12T05:26:35.877Z] Courses fetched successfully
+[2024-12-12T05:26:35.884Z] MongoDB client closed after fetching courses
+[2024-12-12T05:26:35.884Z] GET /api/courses - Courses retrieved successfully
+[2024-12-12T05:26:37.676Z] Courses fetched successfully
+[2024-12-12T05:26:37.681Z] MongoDB client closed after fetching courses
+[2024-12-12T05:26:37.681Z] GET /api/courses - Courses retrieved successfully
+[2024-12-12T05:26:39.637Z] Courses fetched successfully
+[2024-12-12T05:26:39.642Z] MongoDB client closed after fetching courses
+[2024-12-12T05:26:39.643Z] GET /api/courses - Courses retrieved successfully
+[2024-12-12T05:26:41.334Z] Courses fetched successfully
+[2024-12-12T05:26:41.340Z] MongoDB client closed after fetching courses
+[2024-12-12T05:26:41.340Z] GET /api/courses - Courses retrieved successfully
+[2024-12-12T05:26:43.088Z] Courses fetched successfully
+[2024-12-12T05:26:43.091Z] MongoDB client closed after fetching courses
+[2024-12-12T05:26:43.091Z] GET /api/courses - Courses retrieved successfully
+[2024-12-12T05:26:44.936Z] Courses fetched successfully
+[2024-12-12T05:26:44.942Z] MongoDB client closed after fetching courses
+[2024-12-12T05:26:44.942Z] GET /api/courses - Courses retrieved successfully
+[2024-12-12T05:26:46.797Z] Courses fetched successfully
+[2024-12-12T05:26:46.802Z] MongoDB client closed after fetching courses
+[2024-12-12T05:26:46.802Z] GET /api/courses - Courses retrieved successfully
+[2024-12-12T05:26:48.509Z] Courses fetched successfully
+[2024-12-12T05:26:48.512Z] MongoDB client closed after fetching courses
+[2024-12-12T05:26:48.513Z] GET /api/courses - Courses retrieved successfully
+[2024-12-12T05:26:50.424Z] Courses fetched successfully
+[2024-12-12T05:26:50.429Z] MongoDB client closed after fetching courses
+[2024-12-12T05:26:50.429Z] GET /api/courses - Courses retrieved successfully
+[2024-12-12T05:26:52.223Z] Courses fetched successfully
+[2024-12-12T05:26:52.227Z] MongoDB client closed after fetching courses
+[2024-12-12T05:26:52.228Z] GET /api/courses - Courses retrieved successfully
+[2024-12-12T05:26:53.981Z] Courses fetched successfully
+[2024-12-12T05:26:53.989Z] MongoDB client closed after fetching courses
+[2024-12-12T05:26:53.989Z] GET /api/courses - Courses retrieved successfully
+[2024-12-12T05:26:55.470Z] Courses fetched successfully
+[2024-12-12T05:26:55.475Z] MongoDB client closed after fetching courses
+[2024-12-12T05:26:55.476Z] GET /api/courses - Courses retrieved successfully
+[2024-12-12T05:26:57.361Z] Courses fetched successfully
+[2024-12-12T05:26:57.365Z] MongoDB client closed after fetching courses
+[2024-12-12T05:26:57.366Z] GET /api/courses - Courses retrieved successfully
+[2024-12-12T05:26:59.138Z] Courses fetched successfully
+[2024-12-12T05:26:59.142Z] MongoDB client closed after fetching courses
+[2024-12-12T05:26:59.142Z] GET /api/courses - Courses retrieved successfully
+[2024-12-12T05:27:00.906Z] Courses fetched successfully
+[2024-12-12T05:27:00.910Z] MongoDB client closed after fetching courses
+[2024-12-12T05:27:00.911Z] GET /api/courses - Courses retrieved successfully
+[2024-12-12T05:27:02.648Z] Courses fetched successfully
+[2024-12-12T05:27:02.654Z] MongoDB client closed after fetching courses
+[2024-12-12T05:27:02.655Z] GET /api/courses - Courses retrieved successfully
+[2024-12-12T05:27:04.485Z] Courses fetched successfully
+[2024-12-12T05:27:04.490Z] MongoDB client closed after fetching courses
+[2024-12-12T05:27:04.490Z] GET /api/courses - Courses retrieved successfully
+[2024-12-12T05:27:06.000Z] Courses fetched successfully
+[2024-12-12T05:27:06.005Z] MongoDB client closed after fetching courses
+[2024-12-12T05:27:06.005Z] GET /api/courses - Courses retrieved successfully
+[2024-12-12T05:27:07.971Z] Courses fetched successfully
+[2024-12-12T05:27:07.976Z] MongoDB client closed after fetching courses
+[2024-12-12T05:27:07.976Z] GET /api/courses - Courses retrieved successfully
+[2024-12-12T05:27:09.623Z] Courses fetched successfully
+[2024-12-12T05:27:09.626Z] MongoDB client closed after fetching courses
+[2024-12-12T05:27:09.626Z] GET /api/courses - Courses retrieved successfully
+[2024-12-12T05:27:11.660Z] Courses fetched successfully
+[2024-12-12T05:27:11.667Z] MongoDB client closed after fetching courses
+[2024-12-12T05:27:11.667Z] GET /api/courses - Courses retrieved successfully
+[2024-12-12T05:27:13.380Z] Courses fetched successfully
+[2024-12-12T05:27:13.386Z] MongoDB client closed after fetching courses
+[2024-12-12T05:27:13.386Z] GET /api/courses - Courses retrieved successfully
+[2024-12-12T05:32:00.781Z] Server running on port 5000
+[2024-12-12T05:32:02.968Z] Courses fetched successfully
+[2024-12-12T05:32:02.985Z] MongoDB client closed after fetching courses
+[2024-12-12T05:32:02.991Z] GET /api/courses - Courses retrieved successfully
+[2024-12-12T05:32:04.629Z] Courses fetched successfully
+[2024-12-12T05:32:04.640Z] MongoDB client closed after fetching courses
+[2024-12-12T05:32:04.643Z] GET /api/courses - Courses retrieved successfully
+[2024-12-12T05:32:06.419Z] Courses fetched successfully
+[2024-12-12T05:32:06.428Z] MongoDB client closed after fetching courses
+[2024-12-12T05:32:06.431Z] GET /api/courses - Courses retrieved successfully
+[2024-12-12T05:32:08.180Z] Courses fetched successfully
+[2024-12-12T05:32:08.191Z] MongoDB client closed after fetching courses
+[2024-12-12T05:32:08.195Z] GET /api/courses - Courses retrieved successfully
+[2024-12-12T05:32:10.061Z] Courses fetched successfully
+[2024-12-12T05:32:10.075Z] MongoDB client closed after fetching courses
+[2024-12-12T05:32:10.081Z] GET /api/courses - Courses retrieved successfully
+[2024-12-12T05:32:11.441Z] Courses fetched successfully
+[2024-12-12T05:32:11.454Z] MongoDB client closed after fetching courses
+[2024-12-12T05:32:11.458Z] GET /api/courses - Courses retrieved successfully
+[2024-12-12T05:32:13.041Z] Courses fetched successfully
+[2024-12-12T05:32:13.054Z] MongoDB client closed after fetching courses
+[2024-12-12T05:32:13.058Z] GET /api/courses - Courses retrieved successfully
+[2024-12-12T05:32:14.579Z] Courses fetched successfully
+[2024-12-12T05:32:14.591Z] MongoDB client closed after fetching courses
+[2024-12-12T05:32:14.595Z] GET /api/courses - Courses retrieved successfully
+[2024-12-12T05:32:16.338Z] Courses fetched successfully
+[2024-12-12T05:32:16.348Z] MongoDB client closed after fetching courses
+[2024-12-12T05:32:16.352Z] GET /api/courses - Courses retrieved successfully
+[2024-12-12T05:32:18.138Z] Courses fetched successfully
+[2024-12-12T05:32:18.145Z] MongoDB client closed after fetching courses
+[2024-12-12T05:32:18.148Z] GET /api/courses - Courses retrieved successfully
+[2024-12-12T05:32:19.878Z] Courses fetched successfully
+[2024-12-12T05:32:19.889Z] MongoDB client closed after fetching courses
+[2024-12-12T05:32:19.894Z] GET /api/courses - Courses retrieved successfully
+[2024-12-12T05:32:21.791Z] Courses fetched successfully
+[2024-12-12T05:32:21.801Z] MongoDB client closed after fetching courses
+[2024-12-12T05:32:21.804Z] GET /api/courses - Courses retrieved successfully
+[2024-12-12T05:32:23.683Z] Courses fetched successfully
+[2024-12-12T05:32:23.692Z] MongoDB client closed after fetching courses
+[2024-12-12T05:32:23.699Z] GET /api/courses - Courses retrieved successfully
+[2024-12-12T05:32:25.620Z] Courses fetched successfully
+[2024-12-12T05:32:25.628Z] MongoDB client closed after fetching courses
+[2024-12-12T05:32:25.632Z] GET /api/courses - Courses retrieved successfully
