@@ -11,11 +11,9 @@ app.use(express.json());
 
 const uri = process.env.MONGO_URI;
 
-const frontendPath = path.join(__dirname, 'frontend');
-app.use(express.static(frontendPath));
-
 async function fetchCourses() {
   let client;
+
   try {
     client = await MongoClient.connect(uri, {
       useNewUrlParser: true,
@@ -39,6 +37,7 @@ async function fetchCourses() {
 
 async function saveToCart(cartItem) {
   let client;
+
   try {
     client = await MongoClient.connect(uri, {
       useNewUrlParser: true,
@@ -60,12 +59,9 @@ async function saveToCart(cartItem) {
   }
 }
 
-app.get('/', (req, res) => {
-  res.sendFile(path.join(frontendPath, 'index.html'));
-});
-
 app.post('/api/cart', async (req, res) => {
   const cartItem = req.body;
+
   try {
     cartItem.addedAt = new Date();
 
@@ -101,6 +97,8 @@ app.get('/api/courses', async (req, res) => {
 app.use((req, res) => {
   res.status(404).json({ message: 'Route not found' });
 });
+
+app.use(express.static(path.join(__dirname, 'public')));
 
 const PORT = process.env.PORT || 5000;
 app.listen(PORT, () => {
