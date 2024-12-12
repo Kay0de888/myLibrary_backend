@@ -1,108 +1,173 @@
-const express = require('express');
-const cors = require('cors');
-const { MongoClient, ObjectId } = require('mongodb');
-require('dotenv').config();
-const path = require('path');
+new Vue({
+  el: "#app",
+  data: {
+    currentPage: "index", 
+    courses: [], 
+    cart: [], 
+    searchQuery: "", 
+    loading: true, 
+    error: null, 
+    sortKey: "title", 
+    sortOrder: "asc", 
+    checkoutForm: {
+      name: "",
+      phone: "",
+    }, 
+    successMessage: "", 
+  },
+  computed: {
+    
+    filteredCourses() {
+      const query = this.searchQuery.toLowerCase();
+      return this.courses
+        .filter(
+          (course) =>
+            course.title.toLowerCase().includes(query) ||
+            course.location.toLowerCase().includes(query) ||
+            course.price.toString().includes(query)
+        )
+        .sort((a, b) => {
+          let result = 0;
+          if (a[this.sortKey] < b[this.sortKey]) result = -1;
+          if (a[this.sortKey] > b[this.sortKey]) result = 1;
+          return this.sortOrder === "asc" ? result : -result;
+        });
+    },
+    // Count of items in the cart
+    cartCount() {
+      return this.cart.length;
+    },
+    // Validate name (only letters)
+    isNameValid() {
+      return /^[A-Za-z\s]+$/.test(this.checkoutForm.name);
+    },
+    // Validate phone number (only numbers)
+    isPhoneValid() {
+      return /^[0-9]+$/.test(this.checkoutForm.phone);
+    },
+  },
+  methods: {
+    
+    togglePage() {
+      this.currentPage = this.currentPage === "index" ? "checkout" : "index";
+    },
+    
+    addToCart(course) {
+      const index = this.courses.findIndex((c) => c._id === course._id);
+      if (index !== -1 && this.courses[index].spacesAvailable > 0) {
+        this.courses[index].spacesAvailable -= 1; // Decrease spaces available
+        const cartItem = { 
+          courseId: course._id,
+          title: course.title,
+          price: course.price,
+          location: course.location,
+          image: course.image,
+        };
+  
+       
+        this.cart.push({ ...course });
+  
+        
+        fetch("http://localhost:5000/api/cart", {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
+          },
+          body: JSON.stringify(cartItem),
+        })
+          .then((response) => {
+            if (!response.ok) {
+              throw new Error("Failed to save item to cart");
+            }
+            return response.json();
+          })
+          .then((data) => {
+            console.log("Item saved to cart with ID:", data.cartItemId);
+          })
+          .catch((err) => {
+            console.error("Error saving to cart:", err.message);
+            this.error = "Error saving to cart: " + err.message;
+          });
+      }
+    },
+    
+    removeFromCart(course) {
+      const index = this.cart.findIndex((c) => c._id === course._id);
+      if (index !== -1) {
+        this.cart.splice(index, 1); 
+        
+        const courseIndex = this.courses.findIndex((c) => c._id === course._id);
+        if (courseIndex !== -1) {
+          this.courses[courseIndex].spacesAvailable += 1;
+        }
+      }
+    },
+    
+    sortCourses(key) {
+      this.sortKey = key;
+    },
+    
+    toggleSortOrder() {
+      this.sortOrder = this.sortOrder === "asc" ? "desc" : "asc";
+    },
+    
+    fetchCourses() {
+      this.loading = true;
+      this.error = null;
+      fetch("http://localhost:5000/api/courses") 
+        .then((response) => {
+          if (!response.ok) {
+            throw new Error("Failed to fetch courses");
+          }
+          return response.json();
+        })
+        .then((data) => {
+          this.courses = data; 
+        })
+        .catch((err) => {
+          this.error = "Error retrieving courses: " + err.message;
+        })
+        .finally(() => {
+          this.loading = false; 
+        });
+    },
+    
+    checkout() {
+      if (this.isNameValid && this.isPhoneValid && this.cart.length > 0) {
+        const orderData = {
+          name: this.checkoutForm.name,
+          phone: this.checkoutForm.phone,
+          cart: this.cart,
+        };
 
-const app = express();
-
-app.use(cors());
-app.use(express.json());
-
-const uri = process.env.MONGO_URI;
-
-async function fetchCourses() {
-  let client;
-
-  try {
-    client = await MongoClient.connect(uri, {
-      useNewUrlParser: true,
-      useUnifiedTopology: true,
-      ssl: true,
-    });
-
-    const db = client.db('MyLibrary');
-    const coursesCollection = db.collection('courses');
-
-    const courses = await coursesCollection.find().toArray();
-    return courses;
-  } catch (error) {
-    console.error("Error retrieving courses:", error.message);
-    throw error;
-  } finally {
-    if (client) {
-      await client.close();
-    }
-  }
-}
-
-async function saveToCart(cartItem) {
-  let client;
-
-  try {
-    client = await MongoClient.connect(uri, {
-      useNewUrlParser: true,
-      useUnifiedTopology: true,
-      ssl: true,
-    });
-
-    const db = client.db('MyLibrary');
-    const cartCollection = db.collection('cart');
-
-    const result = await cartCollection.insertOne(cartItem);
-    return result;
-  } catch (error) {
-    console.error("Error saving to cart:", error.message);
-    throw error;
-  } finally {
-    if (client) {
-      await client.close();
-    }
-  }
-}
-
-app.post('/api/cart', async (req, res) => {
-  const cartItem = req.body;
-
-  try {
-    cartItem.addedAt = new Date();
-
-    const result = await saveToCart(cartItem);
-
-    res.status(201).json({
-      message: 'Item added to cart',
-      cartItemId: result.insertedId,
-    });
-  } catch (error) {
-    res.status(500).json({
-      message: 'Error saving to cart',
-      error: error.message,
-    });
-  }
-});
-
-app.get('/api/courses', async (req, res) => {
-  try {
-    const courses = await fetchCourses();
-    if (!courses || courses.length === 0) {
-      return res.status(404).json({ message: 'No courses found.' });
-    }
-    return res.status(200).json(courses);
-  } catch (error) {
-    return res.status(500).json({
-      message: 'Error retrieving courses',
-      error: error.message,
-    });
-  }
-});
-
-app.use((req, res) => {
-  res.status(404).json({ message: 'Route not found' });
-});
-
-app.use(express.static(path.join(__dirname, 'public')));
-
-const PORT = process.env.PORT || 5000;
-app.listen(PORT, () => {
-  console.log(`Server running on port ${PORT}`);
+        
+        fetch("http://localhost:5000/checkout", {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
+          },
+          body: JSON.stringify(orderData),
+        })
+          .then((response) => response.json())
+          .then((data) => {
+            if (data.error) {
+              this.error = data.error; 
+            } else {
+              this.successMessage = data.message; 
+              this.cart = []; 
+              this.checkoutForm.name = ""; 
+              this.checkoutForm.phone = "";
+            }
+          })
+          .catch((err) => {
+            this.error = "Error during checkout: " + err.message;
+          });
+      } else {
+        this.error = "Please enter valid information."; 
+      }
+    },
+  },
+  mounted() {
+    this.fetchCourses(); 
+  },
 });
